@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharet
 	text="## Synopsis
 , consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales"
 
-	image="http://localhost:4000/assets/images/dossier-diffusion/page7.png"
+	image="assets/images/dossier-diffusion/page7.png"
 	grow="2"
 	order="reverse"
 	text-align="text-center"
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharet
 ## Synopsis Overlay
 {% include overlay.html 
 
-	image="http://localhost:4000/assets/images/dossier-diffusion/page7.png"
+	image="assets/images/dossier-diffusion/page7.png"
 	text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales"
 	
 	top="30px"
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharet
 
 ## Doc
 {% include section.html 
-	image="http://localhost:4000/assets/images/dossier-diffusion/page7.png"
+	image="assets/images/dossier-diffusion/page7.png"
 	text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales"
 	style=""
 	background="has-background-white-ter"
