@@ -1,0 +1,40 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <section class="hero is-fullheight has-text-centered" id="hero">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title has-text-white is-size-1 is-uppercase has-text-weight-bold">
+            {{page.title}}
+          </h1>
+          <h3 class="subtitle has-text-white-bis is-uppercase has-text-weight-medium is-marginless">
+            {{page.description}}
+          </h3>
+        </div>
+      </div>
+    </section>
+    <style type="text/css">
+        #hero::before{background-image:url({{page.image}}) !important;
+    </style>
+    <section class="hero is-fullheight">
+        <div class="hero-body">
+            <div class="container has-text-centered" id="page-section">
+                <div class="section">
+                    <div class="content is-marginless">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer begins here-->
+    {% include footer.html %}
+</body>
+
+</html>

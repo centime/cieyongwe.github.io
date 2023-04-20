@@ -1,0 +1,16 @@
+
+
+<section class="hero has-text-centered {{include.background}}">
+    <div class="">
+        <div class="container">
+            <div class="columns" style="display: flex-direction:row; flex-direction:row-{{include.order}};">
+                <div class="column" style="flex-grow:{{ include.grow }}">
+                        <img src="{{include.image}}" alt="">
+                </div>
+                <div class="column has-{{include.text-align}}">
+                	<p>{{include.text | markdownify}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
