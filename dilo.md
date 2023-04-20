@@ -2,7 +2,7 @@
 title: Dilo
 layout: page
 description: Poésie Musicale Flottante
-image: /assets/images/dossier-diffusion/page4.png
+image: assets/images/dossier-diffusion/page4.png
 ---
 	
 ## Note d'intention
