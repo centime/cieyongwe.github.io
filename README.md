@@ -3,35 +3,35 @@
 Live demo: [centime.github.io/cieyongwe.github.io/](https://centime.github.io/cieyongwe.github.io/)
 
 [Pages](#pages)
-	- [Les attributs d'une page](#les-attributs-dune-page)
-	- [Création d'une nouvelle page](#création-dune-nouvelle-page)
-	- [Mise en page basique (titres, paragraphes, liens, listes, images)](#mise-en-page-basique-titres-paragraphes-liens-listes-images)
-	- [Mise en page avancée (colonnes, overlays, galleries)](#mise-en-page-avancée-colonnes-overlays-galleries)
+- [Les attributs d'une page](#les-attributs-dune-page)
+- [Création d'une nouvelle page](#création-dune-nouvelle-page)
+- [Mise en page basique (titres, paragraphes, liens, listes, images)](#mise-en-page-basique-titres-paragraphes-liens-listes-images)
+- [Mise en page avancée (colonnes, overlays, galleries)](#mise-en-page-avancée-colonnes-overlays-galleries)
 
 [Configuration générale](#configuration-générale)
-	- [Titre, description, et image](#titre-description-et-image)
-	- [Encart "Artistes"](#encart-artistes)
-	- [Encart "Projets"](#encart-projets)
-	- [Menu de navigation](#menu-de-navigation)
-	- [Liens contact & réseaux sociaux](#liens-contact--réseaux-sociaux)
-	- [Favicon](#favicon)
-	- [Nouvelle police](#nouvelle-police)
-	- [Google analytics](#google-analytics)
+- [Titre, description, et image](#titre-description-et-image)
+- [Encart "Artistes"](#encart-artistes)
+- [Encart "Projets"](#encart-projets)
+- [Menu de navigation](#menu-de-navigation)
+- [Liens contact & réseaux sociaux](#liens-contact--réseaux-sociaux)
+- [Favicon](#favicon)
+- [Nouvelle police](#nouvelle-police)
+- [Google analytics](#google-analytics)
 
 [Github](#github)
-	- [Editer un fichier](#editer-un-fichier)
-	- [Uploader des images](#uploader-des-images)
-	- [Mise à jour après modification (deployment)](#mise-à-jour-après-modification-deployment)
-	- [Historique des versions (commits)](#historique-des-versions-commits)
-	- [Restauration d'une version antérieure]#restauration-dune-version-antérieure
-	- [Inviter des contributeurs](#inviter-des-contributeurs)
-	- [Mettre à jour depuis une version copiée du projet (pull request)](#mettre-à-jour-depuis-une-version-copiée-du-projet-pull-request)
+- [Editer un fichier](#editer-un-fichier)
+- [Uploader des images](#uploader-des-images)
+- [Mise à jour après modification (deployment)](#mise-à-jour-après-modification-deployment)
+- [Historique des versions (commits)](#historique-des-versions-commits)
+- [Restauration d'une version antérieure]#restauration-dune-version-antérieure
+- [Inviter des contributeurs](#inviter-des-contributeurs)
+- [Mettre à jour depuis une version copiée du projet (pull request)](#mettre-à-jour-depuis-une-version-copiée-du-projet-pull-request)
 
 Development
-	- Project description
-	- Install
-	- Credits
-	- License
+- [Project description](#project-description)
+- [Install](#install)
+- [Credits](#credits)
+- [License](#license)
 
 ## Pages
 
@@ -98,13 +98,13 @@ Subset of the [WhatATheme](https://github.com/thedevslot/WhatATheme) theme for [
 
 System Requirements:
 
-* [Ruby](https://www.ruby-lang.org/en/)
-* [Jekyll](https://jekyllrb.com/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Jekyll](https://jekyllrb.com/)
 
 The instructions to install WhatATheme should cover it since we're now using a subset of it
 
-* Inside the directory run `bundle install`
-* Host WhatATheme locally by running `bundle exec jekyll serve`
+- Inside the directory run `bundle install`
+- Host WhatATheme locally by running `bundle exec jekyll serve`
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
@@ -117,8 +117,8 @@ The instructions to install WhatATheme should cover it since we're now using a s
 
 [WhatATheme](https://github.com/thedevslot/WhatATheme):
 
-* [Sneha Omer](http://sassyecoder.github.io/)
-* [Harsh Trivedi](http://harsh98trivedi.github.io/)
+- [Sneha Omer](http://sassyecoder.github.io/)
+- [Harsh Trivedi](http://harsh98trivedi.github.io/)
 
 
 ### License
