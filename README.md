@@ -1,53 +1,126 @@
-# WhatATheme
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
+# Documentation
 
-#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
+[centime.github.io/cieyongwe.github.io/](https://centime.github.io/cieyongwe.github.io/)
 
-![WhatATheme](assets/images/meta.jpg)
 
-# Features :sparkles:
-* Free and Easy setup
-* No Coding Required
-* Compatible with [Github Pages](https://pages.github.com/)
-* Responsive and Blogging Ready
-* HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
-* Minified CSS using SaSS
-* CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
-* Supports Latest [Jekyll 4.x](https://jekyllrb.com/) and [Bundler](https://bundler.io/)
-* Stylesheet built using SaSS
-* Comments using Disqus
-* Analytics using Google Analytics
-* Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
+[Pages](#pages)
+	- Création d'une nouvelle page
+	- Les attributs d'une page
+	- Mise en page basique (titres, paragraphes, liens, listes, images)
+	- Mise en page avancée (colonnes, overlays, galleries)
 
-# Installation :books:
-### System Requirements
+Configuration générale
+	- Titre, description, et image
+	- Encart "Artistes"
+	- Encart "Projets"
+	- Menu de navigation
+	- Liens contact & réseaux sociaux
+	- Favicon
+	- Nouvelle police
+	- Google analytics
+
+Github
+	- Editer un fichier
+	- Uploader des images
+	- Mise à jour après modification (deployment)
+	- Historique des versions (commits)
+	- Restauration d'une version antécédante
+	- Inviter des contributeurs
+	- Mettre à jour depuis une version copiée du projet (pull request)
+
+Development
+	- Project description
+	- Install
+	- Credits
+	- License
+
+## Pages
+
+Chaque page est générée à partir des informations contenues dans un fichier `.md` correspondant. C'est modifiant ce fichier que l'on changera le contenu d'une page, et pour créer un nouvelle page *"Nouvelle Page"*, on pourra créer un nouveau fichier `nouvelle-page.md`
+
+Ces fichiers `.md` sont composés de deux sections: attributs et contenu. Les attributs sont nécessaires pour définir des paramètres tels que l'url de la future page, les titres et l'image du bandeau de haut de page, ou le résumé à proposer à google et réseaux sociaux. Le contenu est ce qui sera rédigé pour les visiteurs humains.
+
+### Les attributs d'une page
+
+### Mise en page basique (titres, paragraphes, liens, listes, images)
+
+### Création d'une nouvelle page
+
+### Mise en page avancée (colonnes, overlays, galleries)
+
+
+## Configuration générale
+
+### Titre, description, et image
+
+### Encart "Artistes"
+
+### Encart "Projets"
+
+### Menu de navigation
+
+### Liens contact & réseaux sociaux
+
+### Favicon
+
+### Nouvelle police
+
+### Google analytics
+
+
+## Github
+
+[github.com](https://github.com) est une plateforme collaborative pour accueillir des projets de développement. Sans que ce soit son principal intérêt, plutôt destiné à des devs, github nous propose ici de gérer nos fichiers via une interface web raisonablement efficace, et de les processer en un site web hébergé et publié gratuitement.
+
+Si les conditions venaient à changer et que cela devienne payant un jour, il sera trivial de déplacer le site chez n'importe quel hébergeur et dans leur offre la plus économique. La perte de l'interface d'édition web nécessitera par contre de passer par les logiciels plus classiques et moins intégrés (filezilla etc)   
+
+### Editer un fichier
+
+### Uploader des images
+
+### Mise à jour après modification (deployment)
+
+### Historique des versions (commits)
+
+### Restauration d'une version antérieure
+
+### Inviter des contributeurs
+
+### Mettre à jour depuis une version copiée du projet (pull request)
+
+
+## Development
+
+### Project description
+
+Subset of the [WhatATheme](https://github.com/thedevslot/WhatATheme) theme for [Jekyll](https://jekyllrb.com/), with a scope redefined around gh-pages editing & CI features.
+
+### Install
+
+System Requirements:
+
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Jekyll](https://jekyllrb.com/)
-> You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
-### Up and Running
-* Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
-* Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
+
+The instructions to install WhatATheme should cover it since we're now using a subset of it
+
 * Inside the directory run `bundle install`
-* Host WhatATheme locally by running `bundle exec jekyll s`
+* Host WhatATheme locally by running `bundle exec jekyll serve`
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
-[<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
+> You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
----
 
-### Content Credits :green_heart:
-* [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
-* [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
-* [Font Awesome](https://fontawesome.com/)
-* [Poppins Font](https://fonts.google.com/specimen/Poppins)
-* [Memphis Pattern](https://www.freepik.com/free-vector/memphis-pattern-background_4034913.htm#page=1&query=memphis%20pattern&position=23) used for some Social Media Images and the Favicon.
+### Credits
 
----
+[Vincent Delaunay](https://github.com/centime/cieyongwe.github.io)
 
-### Credits :bulb:
+[WhatATheme](https://github.com/thedevslot/WhatATheme):
+
 * [Sneha Omer](http://sassyecoder.github.io/)
 * [Harsh Trivedi](http://harsh98trivedi.github.io/)
 
+
 ### License
-The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
+The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/centime/cieyongwe.github.io/blob/master/LICENSE)
