@@ -1,32 +1,31 @@
 # Documentation
 
-[centime.github.io/cieyongwe.github.io/](https://centime.github.io/cieyongwe.github.io/)
-
+Live demo: [centime.github.io/cieyongwe.github.io/](https://centime.github.io/cieyongwe.github.io/)
 
 [Pages](#pages)
-	- Création d'une nouvelle page
-	- Les attributs d'une page
-	- Mise en page basique (titres, paragraphes, liens, listes, images)
-	- Mise en page avancée (colonnes, overlays, galleries)
+	- [Les attributs d'une page](#les-attributs-dune-page)
+	- [Création d'une nouvelle page](#création-dune-nouvelle-page)
+	- [Mise en page basique (titres, paragraphes, liens, listes, images)](#mise-en-page-basique-titres-paragraphes-liens-listes-images)
+	- [Mise en page avancée (colonnes, overlays, galleries)](#mise-en-page-avancée-colonnes-overlays-galleries)
 
-Configuration générale
-	- Titre, description, et image
-	- Encart "Artistes"
-	- Encart "Projets"
-	- Menu de navigation
-	- Liens contact & réseaux sociaux
-	- Favicon
-	- Nouvelle police
-	- Google analytics
+[Configuration générale](#configuration-générale)
+	- [Titre, description, et image](#titre-description-et-image)
+	- [Encart "Artistes"](#encart-artistes)
+	- [Encart "Projets"](#encart-projets)
+	- [Menu de navigation](#menu-de-navigation)
+	- [Liens contact & réseaux sociaux](#liens-contact--réseaux-sociaux)
+	- [Favicon](#favicon)
+	- [Nouvelle police](#nouvelle-police)
+	- [Google analytics](#google-analytics)
 
-Github
-	- Editer un fichier
-	- Uploader des images
-	- Mise à jour après modification (deployment)
-	- Historique des versions (commits)
-	- Restauration d'une version antécédante
-	- Inviter des contributeurs
-	- Mettre à jour depuis une version copiée du projet (pull request)
+[Github](#github)
+	- [Editer un fichier](#editer-un-fichier)
+	- [Uploader des images](#uploader-des-images)
+	- [Mise à jour après modification (deployment)](#mise-à-jour-après-modification-deployment)
+	- [Historique des versions (commits)](#historique-des-versions-commits)
+	- [Restauration d'une version antérieure]#restauration-dune-version-antérieure
+	- [Inviter des contributeurs](#inviter-des-contributeurs)
+	- [Mettre à jour depuis une version copiée du projet (pull request)](#mettre-à-jour-depuis-une-version-copiée-du-projet-pull-request)
 
 Development
 	- Project description
