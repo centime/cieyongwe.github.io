@@ -2,7 +2,7 @@
 title: Nos Parcours
 description: Origines et Biographies
 layout: page
-image: /uploads/Note de musique.jpeg
+image: /uploads/Note de musique.jpe
 ---
 
 ## Origine
@@ -24,6 +24,8 @@ et au duo des origines.
 
 ![Illustration du prochain projet](/assets/images/dossier-diffusion/page9.png)
 
-## spectacle 2025
+## Biographies
 
-Au in de Aurillac
+### Mehdi Meskini
+
+![Mehdi Image](/uploads/mehdi photo.jpeg)
