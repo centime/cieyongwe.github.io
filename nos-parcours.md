@@ -29,3 +29,24 @@ et au duo des origines.
 ### Mehdi Meskini
 
 ![Mehdi Image](/uploads/mehdi photo.jpeg)
+Amoureux des mots, de la poésie : dite, chuchotée, scandée, chantée,
+Mehdi Meskini joue avec ceux ci dans différents groupes de musique,
+spectacles, créations "in-situ", depuis plus de 10 ans.
+Autodidacte, il choisit d’abord l’accordéon pour s’accompagner
+et jouer au sein de diverses formations.
+Par la suite il se consacre pleinement au texte et à la chanson.
+Aujourd’hui, il s’accompagne également de divers percussions
+et instruments (sanza, flûte, bodhran....).
+En parallèle, il est également créateur lumière
+pour plusieurs compagnies de spectacles.
+
+### Clément Beguet
+
+![Clément Image](/uploads/photo clement.png)
+C’est à l’occasion d’une tournée il y a douze ans
+que Clément Béguet tombe amoureux de la Guyane.
+Il s’établit alors à Kourou, où il sera tour à tour
+travailleur social, musicothérapeute, professeur de musique,
+animateur de webradio, musicien de bals carnavalesques,
+trompettiste de jazz, de musiques actuelles et traditionnelles,
+et producteur de musique assistée par ordinateur.
