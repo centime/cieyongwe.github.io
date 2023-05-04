@@ -2,7 +2,7 @@
 title: Nos Parcours
 description: Origines et Biographies
 layout: page
-image: /uploads/Note de musique.jpe
+image: /uploads/Note de musique.jpeg
 ---
 
 ## Origine
