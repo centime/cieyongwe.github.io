@@ -1,0 +1,23 @@
+<!-- 
+    image: url
+    text: markdown
+    text-color="black"
+    font-size="1.2em"
+    font="'Caveat', cursive"
+    text-align: "left", "right", "center"
+-->
+
+<section class="hero has-text-centered">
+    <div class="">
+        <div class="container">
+            <div class="columns" style="display: flex-direction:row;">
+                <div class="column" style="flex-grow:{{ include.grow }}">
+                        <img src="{{site.url}}{{site.baseurl}}{{include.image}}" alt="">
+                </div>
+                <div class="column has-text-{{include.text-align}}">
+                	<p style="color:{{include.text-color}}; font-size: {{include.font-size}};font-family: {{include.font}}">{{include.text | markdownify}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

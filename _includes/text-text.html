@@ -1,0 +1,28 @@
+<!-- 
+    text: markdown
+    text-2: markdown
+
+    text-color="black"
+    font-size="1.2em"
+    font="'Caveat', cursive"
+    text-align: "left", "right", "center"
+
+    text-color-2="black"
+    font-size-2="1.2em"
+    font-2="'Caveat', cursive"
+    text-align-2: "left", "right", "center"
+ -->
+<section class="hero has-text-centered">
+    <div class="">
+        <div class="container">
+            <div class="columns" style="display: flex-direction:row;">
+                <div class="column has-text-{{include.text-align}}" style="flex-grow:{{ include.grow }}">
+                	<p style="color:{{include.text-color}}; font-size: {{include.font-size}};font-family: {{include.font}}">{{include.text | markdownify}}</p>
+                </div>
+                <div class="column has-text-{{include.text-align-2}}">
+                    <p style="color:{{include.text-color-2}}; font-size: {{include.font-size-2}};font-family: {{include.font-2}}">{{include.text-2 | markdownify}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
