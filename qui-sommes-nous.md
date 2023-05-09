@@ -14,7 +14,7 @@ une forme de « chanson pas chantée » bien à lui.
 Après plusieurs créations communes dans différents projets (Résonnance, piano du lac...), ils décident de créer la Compagnie Yongwe et de revenir au duo des origines.
 Portés par l’envie d’ammener le spectaculaire dans des lieux incongrues et de partager avec le public nos rapports aux mondes, nous créons des spectacles transdisciplinaires ou les notions de sensible, de conviction, d’incongru cohabitent.
 
-[Biographies](/biographies)
+[Biographies](biographies)
 
 ## Compagnie Yongwe L’équipe
 
