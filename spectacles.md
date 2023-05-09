@@ -2,8 +2,8 @@
 title: Dilo
 layout: page
 description: Poésie Musicale Flottante
-image: /uploads/photo intro dilo.png
+image: /uploads/photo dilo mer.png
 ---
 
-# Dilo, notre premier spectacle
+# Dilo
 	
