@@ -9,6 +9,7 @@ image: assets/images/dossier-diffusion/page4.png
 
 {% include image-text.html 
 image=/uploads/mehdi photo.jpeg"
+text="
 Amoureux des mots, de la poésie : dite, chuchotée, scandée, chantée,
 Mehdi Meskini joue avec ceux ci dans différents groupes de musique,
 spectacles, créations "in-situ", depuis plus de 10 ans.
