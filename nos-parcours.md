@@ -50,3 +50,25 @@ travailleur social, musicothérapeute, professeur de musique,
 animateur de webradio, musicien de bals carnavalesques,
 trompettiste de jazz, de musiques actuelles et traditionnelles,
 et producteur de musique assistée par ordinateur.
+
+## Compagnie Yongwe L’équipe
+
+{% include text-text.html 
+text="
+## Bureau :
+- Maurette Patrice – **Président**
+- Du Bosq Romain – **Trésorier**
+- Baron Mévénig - **Secrétaire**
+
+## Equipe de production :
+- **Conception Artistique** : Clément Béguet et Mehdi Meskini
+- **Administration** : Jour de Paye (Elsa Babin)
+"
+text-align="left"
+text-2="
+## Equipe Artistique et Technique :
+Robin Mazer, Julie Casery, Pascal Larçonnier, Damien Toillon, Marjorie Delle-Case, Anahita Gohari, Clément Beguet, Mehdi Meskini."
+text-align-2="right"
+%}
+
+
