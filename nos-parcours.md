@@ -51,9 +51,27 @@ animateur de webradio, musicien de bals carnavalesques,
 trompettiste de jazz, de musiques actuelles et traditionnelles,
 et producteur de musique assistée par ordinateur.
 
+
+{% include image-text.html 
+
+image="/uploads/photo clement.png"
+
+text="
+## Clément Beguet
+C’est à l’occasion d’une tournée il y a douze ans
+que Clément Béguet tombe amoureux de la Guyane.
+Il s’établit alors à Kourou, où il sera tour à tour
+travailleur social, musicothérapeute, professeur de musique,
+animateur de webradio, musicien de bals carnavalesques,
+trompettiste de jazz, de musiques actuelles et traditionnelles,
+et producteur de musique assistée par ordinateur.
+"
+%}
+
 ## Compagnie Yongwe L’équipe
 
 {% include text-text.html 
+
 text="
 ## Bureau :
 - Maurette Patrice – **Président**
@@ -69,6 +87,7 @@ text-2="
 ## Equipe Artistique et Technique :
 Robin Mazer, Julie Casery, Pascal Larçonnier, Damien Toillon, Marjorie Delle-Case, Anahita Gohari, Clément Beguet, Mehdi Meskini."
 text-align-2="right"
+
 %}
 
 
