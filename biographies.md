@@ -12,7 +12,7 @@ image=/uploads/mehdi photo.jpeg"
 text="
 Amoureux des mots, de la poésie : dite, chuchotée, scandée, chantée,
 Mehdi Meskini joue avec ceux ci dans différents groupes de musique,
-spectacles, créations "in-situ", depuis plus de 10 ans.
+spectacles, créations \"in-situ\", depuis plus de 10 ans.
 Autodidacte, il choisit d’abord l’accordéon pour s’accompagner
 et jouer au sein de diverses formations.
 Par la suite il se consacre pleinement au texte et à la chanson.
