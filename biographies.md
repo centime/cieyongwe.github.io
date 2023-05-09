@@ -8,7 +8,7 @@ image: assets/images/dossier-diffusion/page4.png
 ## Mehdi Meskini
 
 {% include image-text.html 
-image=/uploads/mehdi photo.jpeg"
+image="/uploads/mehdi photo.jpeg"
 text="
 Amoureux des mots, de la poésie : dite, chuchotée, scandée, chantée,
 Mehdi Meskini joue avec ceux ci dans différents groupes de musique,
