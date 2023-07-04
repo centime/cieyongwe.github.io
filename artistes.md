@@ -2,7 +2,7 @@
 title: Qui sommes-nous?
 description: La compagnie Yongwe
 layout: page
-image: /uploads/equipe.jpeg
+image: /uploads/equipe2.jpeg
 permalink: artistes
 ---
 
