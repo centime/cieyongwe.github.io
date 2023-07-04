@@ -2,7 +2,7 @@
 title: Biographies
 layout: page
 description: Deux artistes pluridisciplinaires
-image: assets/images/dossier-diffusion/page4.png
+image: /uploads/duo.jpg
 permalink: biographies
 ---
 
