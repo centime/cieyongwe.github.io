@@ -11,7 +11,7 @@ logo: "/assets/images/logo.png"
 # Title of the Site
 title: Cie Yongwe
 # Description of the Site
-description: Poésie Musicale Flottante
+description: Spectacles vivants et cie
 # URL of Image of the Site
 site-image: /assets/images/logo.png
 # Keywords of the Site
@@ -20,7 +20,7 @@ site-keywords: Spectacle, Compagnie, Poésie, Musique
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/dossier-diffusion/page2.png
+heroimage: /uploads/dome-lune.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
