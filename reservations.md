@@ -165,9 +165,11 @@ Douarnenez (29) - **Port-Musée - Port-Rhu**
 
 Rivière des Cascades (Guyane) - **avec le Théâtre de Macouria**
 
-Carbet touristique Anbabwa Lodge
-week-end entier en pension complète
-avec activités diverses
+
+![dilo-tdm](/uploads/reservations/dilo-tdm.jpg)
+
+Carbet touristique Anbabwa Lodge,
+week-end entier en pension complète avec activités diverses
 
 *100/150 euros pour le week-end, réservation 06 94 45 75 97*
 
