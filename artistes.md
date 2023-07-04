@@ -1,6 +1,6 @@
 ---
 title: Qui sommes-nous?
-description: La compagnie Yongwe
+description: La compagnie Yongwé
 layout: page
 image: /uploads/equipe2.jpeg
 permalink: artistes
@@ -54,7 +54,9 @@ text-2="
 
 **Sophie Roussel**, cousturmière
 
-**Salim Nakhouia**, djducteur"
+**Salim Nakhouia**, djducteur
+
+**Ondine Rux**, dessinatoueuse"
 text-align-2="right"
 
 %}
