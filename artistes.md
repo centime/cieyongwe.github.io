@@ -18,12 +18,17 @@ En 2021 ils décident de créer la Compagnie Yongwé pour revenir au duo des ori
 {% include text-text.html 
 text="
 ## Bureau :
+
 **Patrice Maurette**, Président
+
 **Romain Du Bosq**, Trésorier
+
 **Mévénig Baron**, Secrétaire
 
 ## Conception artistique :
+
 **Mehdi Meskini**, texte, musique et jeu
+
 **Clément Béguet**, texte, musique et jeu
 
 
@@ -31,13 +36,21 @@ text="
 text-align="left"
 text-2="
 ## Collaborateurs :
+
 **Robin Mazer**, technicien son
+
 **Julie Casery**, technicienne lumières
+
 **Pascal Larçonnier**, régisseur
+
 **Damien Toillon**, artiste peintre
+
 **Marjorie Delle-Case**, musicienne et metteuse en scène
+
 **Anahita Gohari**, comédienne et metteuse en scène
+
 **Sophie Roussel**, costumière
+
 **Salim Nakhouia**, DJ et producteur"
 text-align-2="right"
 
