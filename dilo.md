@@ -8,7 +8,9 @@ permalink: dilo
 	
 ## Note d'intention
 
-Comment refléter les liens si forts qui unissent, en Amazonie, l’Homme à l’eau, omniprésente, qui l’entoure ? En Guyane, parler du fleuve, de la crique, de la mer, parler de « Dilo », c’est aussi parler de leurs habitants. Dans le décor naturel, dans le texte, dans la création sonore : « dilo », « l’eau » en créole Guyanais, est au coeur de cette création, un spectacle se poésie musicale joué sur une scène flottante, mêlant poésie, musique et création sonore.
+Comment refléter les liens si forts qui unissent, en Amazonie, l’Homme à l’eau, omniprésente, qui l’entoure ? En Guyane, parler du fleuve, de la crique, de la mer, parler de « Dilo », c’est aussi parler de leurs habitants. Et ici, quand on parle de l'eau, on n'est jamais loin de parler de l'or...
+
+Dans le décor naturel, dans le texte, dans la création sonore : « dilo », « l’eau » en créole Guyanais, est au coeur de cette création, un spectacle se poésie musicale joué sur une scène flottante, mêlant poésie, musique et création sonore.
 
 {% include text-image.html 
 
