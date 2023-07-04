@@ -3,6 +3,7 @@ title: Qui sommes-nous?
 description: La compagnie Yongwe
 layout: page
 image: /uploads/Note de musique.jpeg
+permalink: artistes
 ---
 
 La compagnie est portée par un  musicien trompettiste et un poete slameur. Amis de toujours, Clément Beguet et Mehdi Meskini ont construit ensemble plusieurs projets musicaux en Guyane
