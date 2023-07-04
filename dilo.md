@@ -127,11 +127,11 @@ text-align="text-center"
 
 
 
-## Aides à la création
+## Dispositifs de soutien à la création
 {% include overlay.html 
 
-image="/assets/images/dossier-diffusion/page7.png"
-text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales"
+image="/uploads/affiche.png"
+text="Cette première création professionnelle de la Compagnie Yongwé a bénéficié du soutien de la DCJS de Guyane, du Centre Nationel de la Musique, de la Collectivité Territoriale de Guyane et de la Scène Conventionnée Théâtre de Macouria"
 
 top="30px"
 bottom=""
