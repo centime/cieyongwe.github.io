@@ -17,13 +17,19 @@ Dans le décor naturel, dans le texte, dans la création sonore : « dilo », «
 
 image="/uploads/dilo-papaichton.jpg"
 text="Dilo
+
 J'ai dit l'Eau
+
 En Guyane partout
+
 mais où est-elle née ?
+
 Où ira-t-elle ?
+
 Et qui la racontera ?
 
 Une histoire parmi plein...
+
 Dilo."
 
 top="30px"
@@ -51,11 +57,17 @@ Assis sur la berge et muni de casques audio, à travers leur attente flottante, 
 
 image="/uploads/dilo-deux-scene.png"
 text="Cours fleuve cours
+
 toi qui en dis long
+
 sur tout ton parcours
+
 sur toutes les façons
+
 qu'a la vie autour
+
 de profiter de ton
+
 cours, fleuve, cours
 
 ."
@@ -115,7 +127,7 @@ text-align="text-center"
 
 
 
-## Synopsis Overlay
+## Aides à la création
 {% include overlay.html 
 
 image="/assets/images/dossier-diffusion/page7.png"
