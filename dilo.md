@@ -8,12 +8,16 @@ permalink: dilo
 	
 ## Note d'intention
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales
+Comment refléter les liens si forts qui unissent, en Amazonie, l’Homme à l’eau, omniprésente, qui l’entoure ? En Guyane, parler du fleuve, de la crique, de la mer, parler de « Dilo », c’est aussi parler de leurs habitants. Dans le décor naturel, dans le texte, dans la création sonore : « dilo », « l’eau » en créole Guyanais, est au coeur de cette création, un spectacle se poésie musicale joué sur une scène flottante, mêlant poésie, musique et création sonore.
 
 {% include text-image.html 
 
 text="## Synopsis
-consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales"
+Quelque part en Guyane, sur une petite barge d'orpaillage, deux hommes. Ils se connaissent peu, et chacun d'entre eux semble cacher à l'autre la raison profonde de sa présence ici. 
+
+De leurs échanges émerge un texte poétique, appuyé par une composition musicale gorgée de sons aquatiques.
+
+Assis sur la berge et muni de casques audio, à travers leur attente flottante, le public se laisse conter l’eau de la Guyane, ses histoires et ses démons. ll se laisse embarquer dans les délires de plus en plus hallucinés de deux hommes isolés dans une immensité d’eau, dans une Amazonie envahissante."
 
 image="/assets/images/dossier-diffusion/page7.png"
 grow="2"
