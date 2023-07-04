@@ -15,7 +15,7 @@ Dans le décor naturel, dans le texte, dans la création sonore : « dilo », «
 
 {% include overlay.html 
 
-image="/uploads.dilo-papaichton.jpg"
+image="/uploads/dilo-papaichton.jpg"
 text="Dilo
 J'ai dit l'Eau
 En Guyane partout
@@ -49,7 +49,7 @@ Assis sur la berge et muni de casques audio, à travers leur attente flottante, 
 
 {% include overlay.html 
 
-image="/uploads.dilo-deux-scene.png"
+image="/uploads/dilo-deux-scene.png"
 text="Cours fleuve cours
 toi qui en dis long
 sur tout ton parcours
