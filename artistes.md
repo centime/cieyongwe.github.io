@@ -6,34 +6,39 @@ image: /uploads/Note de musique.jpeg
 permalink: artistes
 ---
 
-La compagnie est portée par un  musicien trompettiste et un poete slameur. Amis de toujours, Clément Beguet et Mehdi Meskini ont construit ensemble plusieurs projets musicaux en Guyane
-il y a une douzaine d’années, avant d’emprunter des layons différents.
-L’un a construit sa vie en Guyane autour de la musique,
-la trompette et des techniques de musique assistée par ordinateur.
-L’autre s’est exilé en Normandie, et a développé une poétique de la diction,
-une forme de « chanson pas chantée » bien à lui.
-Après plusieurs créations communes dans différents projets (Résonnance, piano du lac...), ils décident de créer la Compagnie Yongwe et de revenir au duo des origines.
-Portés par l’envie d’ammener le spectaculaire dans des lieux incongrues et de partager avec le public nos rapports aux mondes, nous créons des spectacles transdisciplinaires ou les notions de sensible, de conviction, d’incongru cohabitent.
+Amis de toujours, Clément Beguet (musicien) et Mehdi Meskini (poète slameur) ont construit ensemble plusieurs projets musicaux en Guyane il y a une quinzaine d’années, avant d’emprunter des layons différents. L’un en Guyane autour de la musique sous toutes ses formes, de la tradition à l’électro, l’autre en Normandie, développant une poétique de la diction bien à lui.
+
+En 2021 ils décident de créer la Compagnie Yongwé et de revenir au duo des origines. Portés par l’envie d’amener le spectaculaire dans des lieux impromptus et d’échanger avec le public sur leurs rapports aux mondes, ils souhaitent créer des spectacles transdisciplinaires où cohabitent les notions de sensible, de conviction, d’incongru.
+
 
 [Biographies](biographies)
 
-## Compagnie Yongwe L’équipe
+## L’équipe
 
 {% include text-text.html 
 text="
 ## Bureau :
-- Maurette Patrice – **Président**
-- Du Bosq Romain – **Trésorier**
-- Baron Mévénig - **Secrétaire**
+Patrice Maurette, **Président**
+Romain Du Bosq, **Trésorier**
+Mévénig Baron, **Secrétaire**
 
-## Equipe de production :
-- **Conception Artistique** : Clément Béguet et Mehdi Meskini
-- **Administration** : Jour de Paye (Elsa Babin)
+## Conception artistique :
+Mehdi Meskini
+Clément Béguet
+
+
 "
 text-align="left"
 text-2="
-## Equipe Artistique et Technique :
-Robin Mazer, Julie Casery, Pascal Larçonnier, Damien Toillon, Marjorie Delle-Case, Anahita Gohari, Clément Beguet, Mehdi Meskini."
+## Collaborateurs :
+Robin Mazer, **technicien son**
+Julie Casery, **technicienne lumières**
+Pascal Larçonnier, **régisseur**
+Damien Toillon, **artiste peintre**
+Marjorie Delle-Case, **musicienne et metteuse en scène**
+Anahita Gohari, **comédienne et metteuse en scène**
+Sophie Roussel, **costumière**
+Salim Nakhouia, **DJ et producteur**"
 text-align-2="right"
 
 %}
