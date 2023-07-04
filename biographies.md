@@ -3,6 +3,7 @@ title: Biographies
 layout: page
 description: Deux artistes pluridisciplinaires
 image: assets/images/dossier-diffusion/page4.png
+permalink: biographies
 ---
 
 ## Mehdi Meskini
