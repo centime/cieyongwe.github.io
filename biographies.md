@@ -7,7 +7,7 @@ image: assets/images/dossier-diffusion/page4.png
 
 ## Mehdi Meskini
 
-{% include text-img.html 
+{% include text-image.html 
 image="/uploads/mehdi photo.jpeg"
 text="
 Amoureux des mots, de la poésie : dite, chuchotée, scandée, chantée,
