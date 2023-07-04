@@ -73,21 +73,47 @@ text-align="text-left"
 
 %}
 
+## Une expérience sensorielle
+
+Il s’agit ici de proposer une expérience intimiste au spectateur, alors même qu'il est plongé dans un cadre naturel, au bord de l'eau. 
+
+Une scène flottante, surplombée par un dôme géodésique en bois, a été conçue pour cette création. Cette « Bulle à
+Spectacles » flottante est démontable et transportable, ce qui a permis au spectacle en 2022 d'être joué au plus proche du
+public Guyanais, en pirogue et par la route.
+
+Le public, sur la rive, assiste muni de casques audio sans fil àune représentation proposée sur l’eau, mêlant sons, texte et musique, dans des espaces naturels constituant des théâtres aquatiques et de verdure.
+
+Le spectacle est servi par une création sonore dans laquelle sont mis à l'honneur les sons aquatiques et naturels du plateau des Guyanes. Lors des représentations dans l'Hexagone, elle amène le spectateur, assis sur les berges d'un étang ou sur une plage européenne, à s'imaginer au coeur de la forêt tropicale.
+
+L'écoute au casque permet au public de s’immerger pleinement dans la musique minimaliste et les ambiances sonores diffusées, dans les témoignages et proverbes enregistrés, dans la poésie tantôt susurrée, tantôt scandée.
+
+## Public et dispositif
 
 {% include text-image.html 
 
-text="## Synopsis
-Quelque part en Guyane, sur une petite barge d'orpaillage, deux hommes. Ils se connaissent peu, et chacun d'entre eux semble cacher à l'autre la raison profonde de sa présence ici. 
+text="à partir de 6 ans
 
-De leurs échanges émerge un texte poétique, appuyé par une composition musicale gorgée de sons aquatiques.
+durée 50 minutes
 
-Assis sur la berge et muni de casques audio, à travers leur attente flottante, le public se laisse conter l’eau de la Guyane, ses histoires et ses démons. ll se laisse embarquer dans les délires de plus en plus hallucinés de deux hommes isolés dans une immensité d’eau, dans une Amazonie envahissante."
+Spectacle au casque
 
-image="/assets/images/dossier-diffusion/page7.png"
+160 casques HF fournis par la compagnie
+
+Spectacle extérieur, sur plan d'eau calme (lac, étang, rivière, fleuve, port abrité, barrage,...)
+
+Dispositif frontal, en extérieur. Le spectacle est joué de préférence au coucher du soleil.
+
+Des ateliers de médiation autour de la thématique "écriture et paysage sonore" peuvent être envisagés, avec des publics spécifiques.
+
+Fiche technique à télécharger"
+
+image="/uploads/photo dilo mer.jpg"
 grow="2"
 text-align="text-center"
 
 %}
+
+
 
 ## Synopsis Overlay
 {% include overlay.html 
