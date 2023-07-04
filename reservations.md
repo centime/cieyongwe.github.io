@@ -1,10 +1,11 @@
 ---
-title: Dates et réservations
+title: "Dates et réservations"
 layout: page
 permalink: reservations
-image:/uploads/lyon.jpeg
+image: /uploads/lyon.jpeg
 description: Tournée 2023, Hexagone Guyane
 ---
+
 ![agenda de la tournée 2023](/uploads/reservations/tournee-2023.png)
 ## samedi 8 juillet
 - **Saint-Denis-de-Gastines (53)** - Festival Au foin de la rue
