@@ -1,12 +1,12 @@
 - name: Dilo
   link: dilo
   image: assets/images/dossier-diffusion/page1.png
-  description: Poésie Musicale Flottante
+  description: Spectacle Poésie Musicale Flottante
 
 - name: "Dates et réservations"
   link: reservations
   image: uploads/reservations/tournee-2023.png
-  description: Tournée 2023 et réservations en lignes
+  description: Tournée 2023 et réservations en ligne
 
 - name: Qui sommes-nous?
   link: artistes
