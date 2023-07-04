@@ -29,9 +29,9 @@ text="
 
 ## Conception artistique :
 
-**Mehdi Meskini**, texte, musique et jeu
+**Mehdi Meskini**, poésicien
 
-**Clément Béguet**, texte, musique et jeu
+**Clément Béguet**, musicteur
 
 
 "
