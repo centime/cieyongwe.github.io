@@ -2,7 +2,7 @@
 title: "Téléchargements"
 layout: page
 permalink: telechargements
-image: /uploads/julie.jpeg
+image: /uploads/julie.png
 description: Dossiers et outils de communication
 ---
 
