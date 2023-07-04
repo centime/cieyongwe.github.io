@@ -29,12 +29,15 @@ pour plusieurs compagnies de spectacles.
 {% include image-text.html 
 image="/uploads/photo clement.png"
 text="
-C’est à l’occasion d’une tournée il y a douze ans
+C’est à l’occasion d’une tournée il y a quinze ans
 que Clément Béguet tombe amoureux de la Guyane.
 Il s’établit alors à Kourou, où il sera tour à tour
 travailleur social, musicothérapeute, professeur de musique,
 animateur de webradio, musicien de bals carnavalesques,
 trompettiste de jazz, de musiques actuelles et traditionnelles,
+compositeur pour la danse contemporaine
 et producteur de musique assistée par ordinateur.
+
+*Les Mécènes, Wakêrê, Komanti, DubOzone, Les Connards Laqués, Libi na Weli, Akufen...*
 "
 %}
