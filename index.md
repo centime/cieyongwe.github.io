@@ -2,6 +2,10 @@
 layout: home
 ---
 
-## Coucou
+## En bref
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+Yongwé est une compagnie de spectacles vivants basée à Kourou, avec un pied en Guyane et l'autre en Normandie.
+
+Découvrez ici notre première création, Dilo, un spectacle de poésie musicale joué sur l'eau.
+
+Tenez-vous au courant et réservez pour les prochaines dates, découvrez nos prochains projets et les créations en cours !
