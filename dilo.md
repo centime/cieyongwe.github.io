@@ -130,7 +130,7 @@ text-align="text-center"
 ## Dispositifs de soutien à la création
 {% include overlay.html 
 
-image="/uploads/affiche.png"
+image="/uploads/affiche-web-dilo.jpg"
 text="Cette première création professionnelle de la Compagnie Yongwé a bénéficié du soutien de la DCJS de Guyane, du Centre Nationel de la Musique, de la Collectivité Territoriale de Guyane et de la Scène Conventionnée Théâtre de Macouria"
 
 top="30px"
@@ -145,6 +145,9 @@ font="'Caveat', cursive"
 text-align="text-right"
 
 %}
+
+
+
 
 
 ## Doc
