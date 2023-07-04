@@ -62,3 +62,39 @@ text-align-2="right"
 %}
 
 
+## Conception artistique :
+
+
+**Soutiens financiers** 
+
+Collectivité Territoriale de Guyane
+
+DCJS de Guyane
+
+Centre National de la Musique
+
+Ministère des Outre-mer
+
+CC des Savanes
+
+Ville de Kourou / CNES
+
+
+
+**Accueil en résidence**
+
+Scène conventionnée Théâtre de Macouria
+
+Les Arts Improvisés
+
+Scène Nationale 61
+
+Péka Projekt
+
+Le Papadilo
+
+
+**Gestion de Paie**
+
+Jour de Paie (Elsa Babin)
+
