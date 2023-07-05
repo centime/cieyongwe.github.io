@@ -56,3 +56,4 @@ h2{ font-family: 'Caveat', cursive; }
 /*.hero-body .container {
 bottom: 50px
 }*/
+img[alt^="max-500px"]{max-width: 500px;}
