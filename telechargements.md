@@ -6,27 +6,25 @@ image: /uploads/julie.png
 description: Dossiers et outils de communication
 ---
 
-## Dilo : dossier de diffusion
+## Dilo
+
 {% include button.html
- url="dossier-diffusion-dilo.pdf"
- text="Version PDF"
+ url="/uploads/pdf/dossier-diffusion-dilo.pdf"
+ text="Dossier de Diffusion (PDF)"
 %}
 
-## Dilo : fiche technique
 {% include button.html
- url="fiche-technique-dilo.pdf"
- text="Version PDF"
+ url="/uploads/pdf/fiche-technique-dilo.pdf"
+ text="Fiche technique (PDF)"
 %}
 
-## Dilo : affiche du spectacle
 {% include button.html
- url="affiche-dilo.pdf"
- text="Version PDF"
+ url="/uploads/pdf/affiche-dilo.pdf"
+ text="Affiche du spectacle (PDF)"
 %}
 
-## Dilo : photo-calendrier 2023
 {% include button.html
- url="calendrier-dilo.pdf"
- text="Version PDF"
+ url="/uploads/pdf/calendrier-dilo.pdf"
+ text="Photo-calendrier 2023 (PDF)"
 %}
 
