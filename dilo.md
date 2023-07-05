@@ -115,7 +115,7 @@ Spectacle extérieur, sur plan d'eau calme (lac, étang, rivière, fleuve, port 
 
 Dispositif frontal, en extérieur. Le spectacle est joué de préférence au coucher du soleil.
 
-Des ateliers de médiation autour de la thématique "écriture et paysage sonore" peuvent être envisagés, avec des publics spécifiques.
+Des ateliers de médiation autour de la thématique \"écriture et paysage sonore\" peuvent être envisagés, avec des publics spécifiques.
 
 Fiche technique à télécharger"
 
