@@ -6,14 +6,14 @@ url: 'https://centime.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: '/cieyongwe.github.io/'
 
-logo: "/uploads/Logo.png"
+logo: "/uploads/logo-mini.png"
 
 # Title of the Site
 title: Cie Yongwe
 # Description of the Site
 description: Spectacles vivants et cie
 # URL of Image of the Site
-site-image: /uploads/Logo.png
+site-image: /uploads/logo-mini.png
 # Keywords of the Site
 site-keywords: Spectacle, Compagnie, Poésie, Musique
 # URL for the Image of custom Favicon
