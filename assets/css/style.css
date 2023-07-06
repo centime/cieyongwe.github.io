@@ -58,5 +58,6 @@ bottom: 50px
 }*/
 img[alt^="max-500px"]{max-width: 500px;}
 /* "resp" h1 sizes */
+h1 { font-size:3rem}
 @media (max-width: 430px) { h1 {font-size: 30px !important;} }
 
