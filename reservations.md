@@ -37,7 +37,7 @@ Alençon (61) - **Festival des Echappées belles**
 
 Arzon (56) - **Le Petit Port’Na**
 
-21h30, Plage de Port-Lenn
+21h, Plage de Port-Lenn
 
 *Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-vendredi-21-juillet)*
 
