@@ -39,9 +39,9 @@ Arzon (56) - **Le Petit Port’Na**
 
 21h, Plage de Port-Lenn
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-vendredi-21-juillet)*
+*Annulé
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-vendredi-21-juillet/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
 
 ## Samedi 22 juillet
 
@@ -49,9 +49,9 @@ Arzon (56) - **Le Petit Port’Na**
 
 21h30, Plage de Port-Lenn
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-samedi-22-juillet)*
+*Annulé
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-samedi-22-juillet/widget-bouton" style="width: 100%; height: 70px; border: none; "></iframe>
+
 
 ## Dimanche 23 juillet
 
@@ -59,9 +59,7 @@ Arzon (56) - **Le Petit Port’Na**
 
 21h30, Plage de Port-Lenn
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-dimanche-23-juillet)*
-
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-dimanche-23-juillet/widget-bouton" style="width: 100%; height: 70px; border: none; "></iframe>
+*Annulé
 
 ## Lundi 24 juillet
 
@@ -69,9 +67,7 @@ Arzon (56) - **Le Petit Port’Na**
 
 21h30, Plage de Port-Lenn
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-lundi-24-juillet)*
-
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-arzon-lundi-24-juillet/widget-bouton" style="width: 100%; height: 70px; border: none; "></iframe>
+*Annulé
 
 ## Jeudi 27 juillet
 
