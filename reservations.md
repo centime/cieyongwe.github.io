@@ -85,7 +85,7 @@ Caurel (22) - **Lac de Guerlédan**
 
 21h30, Plage de Beau-Rivage
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-vendredi-28-juillet)*
+*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-vendredi-28-juillet)*
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-vendredi-28-juillet/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
@@ -95,7 +95,7 @@ Caurel (22) - **Lac de Guerlédan**
 
 21h30, Plage de Beau-Rivage
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-samedi-29-juillet)*
+*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-samedi-29-juillet)*
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-samedi-29-juillet/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
@@ -105,7 +105,7 @@ Caurel (22) - **Lac de Guerlédan**
 
 21h30, Plage de Beau-Rivage
 
-*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-dimanche-30-juillet)*
+*Prix libre, [réservation conseillée](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-dimanche-30-juillet)*
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-caurel-lac-de-guerledan-dimanche-30-juillet/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
