@@ -14,9 +14,9 @@ Kourou (Camp Maripas) - **Diner Spectacle au Bord de L'Eau**
 
 *25€ hors boisson [Reservation Obligatoire](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-camp-maripas-vendredi-8-septembre)*
 
-!(/uploads/reservations/dilo aux maripas.png)
+![camp maripas](/uploads/reservations/dilo aux maripas.png)
 
-** Pour les autres dates infos à suivre très prochainement
+** Pour les autres dates infos à suivre très prochainement**
 
 ## Samedi 8 juillet
 
