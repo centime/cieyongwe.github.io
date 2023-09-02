@@ -16,7 +16,7 @@ Kourou (Camp Maripas) - **Diner Spectacle au Bord de L'Eau**
 
 ![camp maripas](/uploads/reservations/dilo aux maripas.png)
 
-** Pour les autres dates infos à suivre très prochainement**
+## Pour les autres dates infos à suivre très prochainement
 
 ## Samedi 8 juillet
 
