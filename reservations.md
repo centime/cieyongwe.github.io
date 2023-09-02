@@ -6,8 +6,15 @@ image: /uploads/lyon.jpeg
 description: Tournée 2023, Hexagone Guyane
 ---
 
-![agenda de la tournée 2023](/uploads/reservations/tournee-2023.png)
+![agenda de la tournée 2023](/uploads/reservations/Guyane Tour 2023.png)
 
+## Vendredi 8 Septembre
+
+Kourou (Camp Maripas) - **Diner Spectacle au Bord de L'Eau**
+
+*25€ hors boisson [Reservation Obligatoire](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-camp-maripas-vendredi-8-septembre)*
+
+![Camp Maripas](/uploads/reservations/Dilo aux Maripas.png)
 
 ## Samedi 8 juillet
 
