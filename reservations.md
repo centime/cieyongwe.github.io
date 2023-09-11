@@ -12,16 +12,15 @@ description: Tournée 2023, Hexagone Guyane
 
 Kourou (Camp Maripas) - **Diner Spectacle au Bord de L'Eau**
 
-*25€ hors boisson [Reservation Obligatoire](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-camp-maripas-vendredi-8-septembre)*
-
-![camp maripas](/uploads/reservations/dilo aux maripas.png)
+*événement terminé*
 
 ## Week-end du 16-17 septembre
 
 Rivière des Cascades (Guyane) - **avec le Théâtre de Macouria**
 
 Carbet touristique Anbabwa Lodge,
-week-end entier en pension complète avec activités diverses
+week-end entier en pension complète
+avec activités diverses et transport
 
 *100/150 euros pour le week-end, réservation 06 94 45 75 97*
 
@@ -31,30 +30,42 @@ week-end entier en pension complète avec activités diverses
 
 Maripasoula (Dégrad Amérindien)
 
-*Horaire et info à venir*
+*gratuit et ouvert à tous / réservation très conseillée
+par mail : bibliotheque.maripasoula@gmail.com
+par SMS ou Whatsapp : 06 94 48 16 83
+
+![camp maripas](/uploads/reservations/dilo aux maripas.png)
 
 ## Samedi 23 Septembre
 
 Elahé (Dégrad)
 
-*Horaire et info à venir*
+*gratuit et ouvert à tous, sans réservation*
 
 ## Vendredi 29 Septembre
 
 Cayenne (ZAC Hibiscus)
 
-*Horiaire et info à venir*
+*organisé par la DACCPAT de Cayenne
+Horaires et informations à venir*
 
 ## Samedi 30 Septembre
 
-Régina (Ecomusée)
+Régina (Dégrad principal, face à la Mairie)
 
-*Horaire et info à venir*
+*Journée et soirée exceptionnelle au bord de l'Approuague
+organisée par l'Ecomusée municipal et par la SLAR :
+animations, vide-grenier, stands, spectacle, DJ...
+Gratuit et ouvert à tous. Horaires et informations à venir*
 
 ## Samedi 7 Octobre
 
-Camopi ( Journée de l'abattis)
+Camopi (Journée de l'Abattis)
 
+*En clôture de la Journée de l'Abattis
+organisée par la Mairie de Camopi
+Gratuit et ouvert à tous,
+dégrad du Bourg à 18h30*
 
 
 
