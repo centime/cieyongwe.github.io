@@ -103,6 +103,7 @@ Gratuit et ouvert à tous, sans réservation,
 dégrad du Bourg à 18h30*
 
 
+![Dilo à Camopi](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/c96a7a92-eddd-4a81-9ea0-3c4e857b8aec)
 
 
 
