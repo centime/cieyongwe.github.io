@@ -60,7 +60,7 @@ gratuit, sur réservation, à 19h
 
 réservation obligatoire, lien à venir ici sous peu*
 
-![Uploading Dilo à Cayenne RESERVE PETIT.png…]()
+![Dilo à Cayenne RESERVE PETIT](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/63ad40a6-6d45-4e54-a746-016fe023145b)
 
 
 ## Samedi 30 Septembre
