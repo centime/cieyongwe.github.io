@@ -5,14 +5,15 @@ permalink: reservations
 image: /uploads/lyon.jpeg
 description: Tournée 2023, Hexagone Guyane
 ---
+![NEW Guyane Tour 2023](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/08c49bdb-9578-486d-bf5d-0e0c9b1ffc27)
 
-![agenda de la tournée 2023](/uploads/reservations/guyane tour 2023.png)
 
 ## Vendredi 8 Septembre
 
 Kourou (Camp Maripas) - **Dîner-spectacle au bord de l'eau**
 
 *événement terminé*
+
 
 ## Week-end du 16-17 septembre
 
@@ -40,7 +41,9 @@ réservation par mail : bibliotheque.maripasoula@gmail.com / par SMS ou Whatsapp
 
 Elahé (Dégrad)
 
-*gratuit et ouvert à tous, sans réservation*
+*gratuit et ouvert à tous
+
+sans réservation*
 
 ![DILO MARIPASOULA petit](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/5f113e46-be67-4619-8b45-ec991603b754)
 
@@ -49,7 +52,11 @@ Elahé (Dégrad)
 
 Cayenne (ZAC Hibiscus)
 
-*organisé par la DACCPAT de Cayenne / horaires et informations à venir*
+*organisé par la DACCPAT de Cayenne
+
+(sous réserve ! confirmation à venir)
+
+horaires et informations à venir*
 
 
 ## Samedi 30 Septembre
@@ -57,18 +64,42 @@ Cayenne (ZAC Hibiscus)
 Régina (Dégrad principal, face à la Mairie)
 
 *Journée et soirée exceptionnelle au bord de l'Approuague
+
 organisée par l'Ecomusée municipal et par la SLAR :
+
 animations, vide-grenier, stands, spectacle, DJ...
-Gratuit et ouvert à tous. Spectacle à 18h30, sans réservation.
+
+Gratuit et ouvert à tous. 
+
+Spectacle à 18h30, sans réservation.
+
 + d'informations à venir*
+
+
+## Mardi 3 Octobre
+
+Saint-Georges de l'Oyapock
+
+*organisé avec l'association Panakuh, savoirs de la forêt
+
+au dégrad de la Gabaret près de la RN2 (5km du bourg)
+
+Spectacle à 18h30
+
+Gratuit et ouvert à tous, sans réservation
+
+
 
 ## Samedi 7 Octobre
 
 Camopi (Journée de l'Abattis)
 
 *En clôture de la Journée de l'Abattis
+
 organisée par la Mairie de Camopi
-Gratuit et ouvert à tous,
+
+Gratuit et ouvert à tous, sans réservation,
+
 dégrad du Bourg à 18h30*
 
 
