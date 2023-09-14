@@ -19,7 +19,9 @@ Kourou (Camp Maripas) - **Dîner-spectacle au bord de l'eau**
 
 Rivière des Cascades (Guyane) - **avec le Théâtre de Macouria**
 
-Carbet touristique Anbabwa Lodge, week-end entier en pension complète avec activités diverses
+Carbet touristique Anbabwa Lodge, 
+
+week-end entier en pension complète avec activités diverses
 
 *100/150 euros pour le week-end, réservation 06 94 45 75 97*
 
@@ -28,7 +30,7 @@ Carbet touristique Anbabwa Lodge, week-end entier en pension complète avec acti
 
 ## Jeudi 21 Septembre
 
-Maripasoula (Dégrad Amérindien)
+Maripasoula (Dégrad Amérindien) **avec la bibliothèque Bill Mausel**
 
 *gratuit et ouvert à tous / réservation très conseillée
 
@@ -39,7 +41,7 @@ réservation par mail : bibliotheque.maripasoula@gmail.com / par SMS ou Whatsapp
 
 ## Samedi 23 Septembre
 
-Elahé (Dégrad)
+Elahé (Dégrad) **avec la Ville de Maripasoula et le village d'Elahé**
 
 *gratuit et ouvert à tous
 
@@ -50,13 +52,15 @@ sans réservation*
 
 ## Vendredi 29 Septembre
 
-Cayenne (ZAC Hibiscus)
+Cayenne (ZAC Hibiscus) **organisé par la DACCPAT DE Cayenne**
 
-*organisé par la DACCPAT de Cayenne
+gratuit, sur réservation, à 19h
 
-(sous réserve ! confirmation à venir)
+*(sous réserve ! confirmation à venir très vite)
 
-horaires et informations à venir*
+réservation obligatoire, lien à venir ici sous peu*
+
+![Dilo à Cayenne RESERVE PETIT](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/49305e9c-1ad9-4695-a3d9-4acf3fb8e462)
 
 
 ## Samedi 30 Septembre
@@ -71,9 +75,9 @@ animations, vide-grenier, stands, spectacle, DJ...
 
 Gratuit et ouvert à tous. 
 
-Spectacle à 18h30, sans réservation.
+Spectacle à 18h30, sans réservation*
 
-+ d'informations à venir*
+
 
 
 ## Mardi 3 Octobre
@@ -88,6 +92,8 @@ Spectacle à 18h30
 
 Gratuit et ouvert à tous, sans réservation
 
+![Dilo à Saint-Georges PETIT](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d2841ad-ddf0-4f13-8baf-fdbec2c399ce)
+
 
 
 ## Samedi 7 Octobre
@@ -101,7 +107,6 @@ organisée par la Mairie de Camopi
 Gratuit et ouvert à tous, sans réservation,
 
 dégrad du Bourg à 18h30*
-
 
 ![Dilo à Camopi](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/c96a7a92-eddd-4a81-9ea0-3c4e857b8aec)
 
