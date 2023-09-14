@@ -67,16 +67,19 @@ réservation obligatoire, lien à venir ici sous peu*
 
 Régina (Dégrad principal, face à la Mairie)
 
-*Journée et soirée exceptionnelle au bord de l'Approuague
+*Journée "Régina en fête"
 
 organisée par l'Ecomusée municipal et par la SLAR :
 
-animations, vide-grenier, stands, spectacle, DJ...
+marché artisanal, vide-grenier, balades sur le fleuve, 
+
+stands et animations, spectacle, DJ...
 
 Gratuit et ouvert à tous. 
 
 Spectacle à 18h30, sans réservation*
 
+![377727830_708513547984069_5694959123702909330_n](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d86e63d-554b-41ec-9efd-67628af7016d)
 
 
 
