@@ -28,8 +28,7 @@ Maripasoula (Dégrad Amérindien) **avec la bibliothèque Bill Mausel**
 
 ## Samedi 23 Septembre
 
-Elahé (Dégrad) **avec l
-a Ville de Maripasoula et le village d'Elahé**
+Elahé (Dégrad) **avec la Ville de Maripasoula et le village d'Elahé**
 *événement terminé*
 
 
@@ -41,22 +40,13 @@ DERNIERE MINUTE - La ZAC Hibiscus étant à sec, la DACCPAT de Cayenne est dans 
 ![ANNULATION - Dilo à Cayenne](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/62fc0ace-ea93-4659-8ed1-a4b6e4977c8a)
 
 
-
 ## Samedi 30 Septembre
 
 Régina (Dégrad principal, face à la Mairie)
 
-*Journée "Régina en fête"
+Journée "Régina en fête" organisée par l'Ecomusée municipal et par la SLAR : marché artisanal, vide-grenier, balades sur le fleuve, stands et animations, spectacle, DJ...
 
-organisée par l'Ecomusée municipal et par la SLAR :
-
-marché artisanal, vide-grenier, balades sur le fleuve, 
-
-stands et animations, spectacle, DJ...
-
-Gratuit et ouvert à tous. 
-
-Spectacle à 18h, sans réservation*
+Gratuit et ouvert à tous. Spectacle à 18h, sans réservation*
 
 ![377727830_708513547984069_5694959123702909330_n](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d86e63d-554b-41ec-9efd-67628af7016d)
 
@@ -66,7 +56,7 @@ Spectacle à 18h, sans réservation*
 
 Saint-Georges de l'Oyapock
 
-*organisé avec l'association Panakuh, savoirs de la forêt
+organisé avec l'association Panakuh, savoirs de la forêt
 
 au dégrad de la Gabaret près de la RN2 (5km du bourg)
 
