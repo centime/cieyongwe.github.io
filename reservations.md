@@ -11,56 +11,35 @@ description: Tournée 2023, Hexagone Guyane
 ## Vendredi 8 Septembre
 
 Kourou (Camp Maripas) - **Dîner-spectacle au bord de l'eau**
-
 *événement terminé*
 
 
 ## Week-end du 16-17 septembre
 
 Rivière des Cascades (Guyane) - **avec le Théâtre de Macouria**
-
-Carbet touristique Anbabwa Lodge, 
-
-week-end entier en pension complète avec activités diverses
-
-*100/150 euros pour le week-end, réservation 06 94 45 75 97*
-
-![max-500px dilo-tdm](/uploads/reservations/dilo-tdm.jpg)
+*événement terminé*
 
 
 ## Jeudi 21 Septembre
 
 Maripasoula (Dégrad Amérindien) **avec la bibliothèque Bill Mausel**
-
-*gratuit et ouvert à tous / réservation très conseillée
-
-réservation par mail : bibliotheque.maripasoula@gmail.com / par SMS ou Whatsapp : 06 94 48 16 83
-
-![DILO MARIPASOULA petit](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/5f113e46-be67-4619-8b45-ec991603b754)
+*événement terminé*
 
 
 ## Samedi 23 Septembre
 
-Elahé (Dégrad) **avec la Ville de Maripasoula et le village d'Elahé**
-
-*gratuit et ouvert à tous
-
-sans réservation*
-
-![DILO MARIPASOULA petit](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/5f113e46-be67-4619-8b45-ec991603b754)
+Elahé (Dégrad) **avec l
+a Ville de Maripasoula et le village d'Elahé**
+*événement terminé*
 
 
 ## Vendredi 29 Septembre
 
-Cayenne (ZAC Hibiscus) **organisé par la DACCPAT DE Cayenne**
+Cayenne (ZAC Hibiscus) **ANNULATION !**
+DERNIERE MINUTE - La ZAC Hibiscus étant à sec, la DACCPAT de Cayenne est dans l'obligation de reporter à une date ultérieure (probablement 2024) la représentation de Dilo prévue ce vendredi. Nous sommes désolés et vous tiendrons informés. N'hésitez pas à venir à Régina dès le lendemain !
 
-gratuit, sur réservation, à 19h
+![ANNULATION - Dilo à Cayenne](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/62fc0ace-ea93-4659-8ed1-a4b6e4977c8a)
 
-*(sous réserve ! confirmation à venir très vite)
-
-réservation obligatoire, lien à venir ici sous peu*
-
-![Dilo à Cayenne RESERVE PETIT](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/63ad40a6-6d45-4e54-a746-016fe023145b)
 
 
 ## Samedi 30 Septembre
@@ -77,7 +56,7 @@ stands et animations, spectacle, DJ...
 
 Gratuit et ouvert à tous. 
 
-Spectacle à 18h30, sans réservation*
+Spectacle à 18h, sans réservation*
 
 ![377727830_708513547984069_5694959123702909330_n](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d86e63d-554b-41ec-9efd-67628af7016d)
 
