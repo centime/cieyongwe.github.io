@@ -5,7 +5,7 @@ permalink: reservations
 image: /uploads/lyon.jpeg
 description: Tournée 2023, Hexagone Guyane
 ---
-![NEW Guyane Tour 2023](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/08c49bdb-9578-486d-bf5d-0e0c9b1ffc27)
+![uploads/reservations/tournee2024.jpeg]
 
 
 ## Vendredi 8 Septembre
