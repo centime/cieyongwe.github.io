@@ -5,7 +5,7 @@ permalink: reservations
 image: /uploads/lyon.jpeg
 description: Tournée 2023, Hexagone Guyane
 ---
-![uploads/reservations/tournee2024.jpeg]
+![/uploads/reservations/tournee2024.jpeg]
 
 ## Dimanche 12 mai
 
