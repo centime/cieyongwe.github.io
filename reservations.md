@@ -7,78 +7,46 @@ description: Tournée 2023, Hexagone Guyane
 ---
 ![uploads/reservations/tournee2024.jpeg]
 
+## Dimanche 12 mai
 
-## Vendredi 8 Septembre
+**Festival de l’eau (@Athenor, CNCM)**
+ Saint-Malo-de-Guersac 
+*16h / Port de Rozé / infos https://t.ly/v2V-H
+10/7/5e*
 
-Kourou (Camp Maripas) - **Dîner-spectacle au bord de l'eau**
-*événement terminé*
+## Samedi 18 mai
 
+**Côté Nature (Ville de Saint Nazaire, Athenor, CNCM)**
+Saint Nazaire
+*17h / Parc Paysager / infos https://t.ly/dhZp0
+Entrée libre*
 
-## Week-end du 16-17 septembre
+## Samedi 25 mai
 
-Rivière des Cascades (Guyane) - **avec le Théâtre de Macouria**
-*événement terminé*
+**Festival Chere Guyane**
+Vierzon
+*06h / La Guinguette / infos  https://t.ly/SwEj3
+14/12/10e (petit déj' compris !)*
 
+## Samedi 1er juin
 
-## Jeudi 21 Septembre
+**Les Spectaculaires (ArtSonic Fest' & Concerts)**
+Montaigu 
+*21h / Parc Henri Joyau / infos https://rb.gy/9031em
+Entrée libre*
 
-Maripasoula (Dégrad Amérindien) **avec la bibliothèque Bill Mausel**
-*événement terminé*
+## 28 et 29 juin
 
+**Festival Entre Rhône et Saône (Ville de Lyon)**
+Lyon 
+*21h30 / Île Barbe / infos https://rb.gy/f0zezv
+Entrée libre*
 
-## Samedi 23 Septembre
+## Et 2 scolaires :
 
-Elahé (Dégrad) **avec la Ville de Maripasoula et le village d'Elahé**
-*événement terminé*
-
-
-## Vendredi 29 Septembre
-
-Cayenne (ZAC Hibiscus) **ANNULATION !**
-DERNIERE MINUTE - La ZAC Hibiscus étant à sec, la DACCPAT de Cayenne est dans l'obligation de reporter à une date ultérieure (probablement 2024) la représentation de Dilo prévue ce vendredi. Nous sommes désolés et vous tiendrons informés. N'hésitez pas à venir à Régina dès le lendemain !
-
-![ANNULATION - Dilo à Cayenne](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/62fc0ace-ea93-4659-8ed1-a4b6e4977c8a)
-
-
-## Samedi 30 Septembre
-
-Régina (Dégrad principal, face à la Mairie)
-
-Journée "Régina en fête" organisée par l'Ecomusée municipal et par la SLAR : marché artisanal, vide-grenier, balades sur le fleuve, stands et animations, spectacle, DJ...
-
-Gratuit et ouvert à tous. Spectacle à 18h, sans réservation*
-
-![377727830_708513547984069_5694959123702909330_n](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d86e63d-554b-41ec-9efd-67628af7016d)
-
-
-
-## Mardi 3 Octobre
-
-Saint-Georges de l'Oyapock
-
-organisé avec l'association Panakuh, savoirs de la forêt
-
-au dégrad de la Gabaret près de la RN2 (5km du bourg)
-
-Spectacle à 18h30
-
-Gratuit et ouvert à tous, sans réservation
-
-![Dilo à Saint-Georges PETIT](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/2d2841ad-ddf0-4f13-8baf-fdbec2c399ce)
-
-
-
-## Samedi 7 Octobre
-
-Camopi (Journée de l'Abattis)
-
-*En clôture de la Journée de l'Abattis
-
-organisée par la Mairie de Camopi
-
-Gratuit et ouvert à tous, sans réservation,
-
-dégrad du Bourg à 18h30*
+le **24 mai** au Festival Chere Guyane
+le **25 juin** au Festival de l'Eau par Les Arts Improvisés
+*... la suite en août : infos à venir !*
 
 ![Dilo à Camopi](https://github.com/CieYongwe/cieyongwe.github.io/assets/121974389/c96a7a92-eddd-4a81-9ea0-3c4e857b8aec)
 
