@@ -3,13 +3,13 @@ title: "Dates et réservations"
 layout: page
 permalink: reservations
 image: /uploads/lyon.jpeg
-description: Tournée 2023, Hexagone Guyane
+description: Tournée 2024, Hexagone
 ---
 ![Tournée 2024](/uploads/reservations/tournee2024.jpeg)
 
 ## Dimanche 12 mai
 
-**Festival de l’eau (@Athenor, CNCM)**
+**Festival de l’eau (Athenor, CNCM)**
  Saint-Malo-de-Guersac 
 *16h / Port de Rozé / 10/7/5€*
 
