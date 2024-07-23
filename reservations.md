@@ -10,21 +10,30 @@ description: Tournée 2024, Hexagone
 ## Mardi 06 Août
 
 **Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes/21h
+ Rue du Patis Tatelin 35700 Rennes
+ 
+ 21h
+ 
  *Jauge limitée / Réservation fortement conseillée*
 [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mardi-6-aout)
 
 ## Mercredi 07 Août
 
 **Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes/21h
+ Rue du Patis Tatelin 35700 Rennes
+ 
+ 21h
+ 
 *Jauge limitée / Réservation fortement conseillée*
 [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mercredi-7-aout)
 
 ## Jeudi 08 Août
 
 **Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes/21h
+ Rue du Patis Tatelin 35700 Rennes
+ 
+ 21h
+ 
  *Jauge limitée / Réservation fortement conseillée*
  [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-jeudi-8-aout)
 
