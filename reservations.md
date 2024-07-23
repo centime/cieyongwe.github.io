@@ -38,7 +38,7 @@ description: Tournée 2024, Hexagone
  [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-jeudi-8-aout)
 
 
-
+![Dilo Parisot](/uploads/reservations/diloparisot.png)
 
 ## Vendredi 16 Août
 
