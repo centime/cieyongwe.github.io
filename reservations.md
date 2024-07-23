@@ -40,6 +40,18 @@ description: Tournée 2024, Hexagone
 
 
 
+## Vendredi 16 Août
+
+** Lac de Parisot (82)
+Parisot 82137
+
+21h
+
+ *Jauge limitée / Réservation fortement conseillée*
+ 
+
+
+
 
 
 
