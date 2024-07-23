@@ -5,7 +5,7 @@ permalink: reservations
 image: /uploads/lyon.jpeg
 description: Tournée 2024, Hexagone
 ---
-![Tournée 2024](/uploads/reservations/tournee2024.jpeg)
+![Tournée 2024](/uploads/reservations/dilorennes.png)
 
 ## Mardi 06 Août
 
