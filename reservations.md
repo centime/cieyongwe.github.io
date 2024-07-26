@@ -52,7 +52,7 @@ description: Tournée 2024, Hexagone
  *Jauge limitée / Réservation fortement conseillée*
  [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-blanc-samedi-10-aout-1)
 
-  ## Dimanche 11 Août
+## Dimanche 11 Août
 
 **Zone de baignade près de la guinguette**
  Avenue Pierre Mendès France 36300 LE BLANC
@@ -64,7 +64,7 @@ description: Tournée 2024, Hexagone
 
  ![Dilo Le Donzeil](/uploads/reservations/diloledonzeil.png)
 
-  ## Mardi 13 Août
+## Mardi 13 Août
 
 **Etang du Moulin**
  23480 LE DONZEIL
