@@ -42,7 +42,7 @@ description: Tournée 2024, Hexagone
 
 ![Dilo Le Blanc](/uploads/reservations/diloleblanc.png)
  
- ## Samedi 10 Août
+## Samedi 10 Août
 
 **Zone de baignade près de la guinguette**
  Avenue Pierre Mendès France 36300 LE BLANC
@@ -78,7 +78,7 @@ description: Tournée 2024, Hexagone
 
 ## Vendredi 16 Août
 
-** Lac de Parisot (82)
+**Lac de Parisot**
 Parisot 82137
 
 21h
