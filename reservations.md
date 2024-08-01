@@ -71,8 +71,8 @@ description: Tournée 2024, Hexagone
  
  20h
  
- *Jauge limitée / Réservation fortement conseillée*
-
+*Jauge limitée / Réservation fortement conseillée*
+[Infos et Réservations](https://t.ly/p0xlE)
 
 ![Dilo Parisot](/uploads/reservations/diloparisot.png)
 
