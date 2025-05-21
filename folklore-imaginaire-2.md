@@ -2,7 +2,7 @@
 title: Folklore Imaginaire
 description: La poésie sonore à l’école
 layout: page
-image: /uploads/folklore-imaginaire-clement.jpeg
+image: /uploads/folklore-imaginaire-clement.jpg
 permalink: folklore-imaginaire-2
 ---
 
@@ -39,7 +39,7 @@ text="
 Les morceaux composés avec les élèves peuvent être écoutés sur [cieyongwe.bandcamp.com](https://cieyongwe.bandcamp.com) 
 
 "
-text2="
+text-2="
 ## Partenaires
 Ce projet a été mené en lien avec les Arts Improvisés, avec le soutien de la DRAC Normandie.
  
