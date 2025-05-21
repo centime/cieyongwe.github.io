@@ -40,7 +40,7 @@ text-2="
 
 ## Collaborateurs :
 
-**Robin Mazer**, sonificateur
+**Robinio**, sonificateur
 
 **Julie Casery**, luminatrice
 
