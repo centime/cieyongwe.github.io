@@ -17,32 +17,10 @@ a.navbar-item:hover,.navbar-link:hover{background-color:rgba(255,255,255,.25) !i
 a.navbar-item.is-active{background-color:rgba(255,255,255,.25) !important;color:#fff !important}
 a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;color:gray}
 .navbar-link:not(.is-arrowless)::after{border-color:gray}
-#hero{
-	background:#000;
-	background:-moz-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	background:-webkit-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	background:linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1)
-}
-#hero::before{
-	background-image: url("https://centime.github.io/cieyongwe.github.io/uploads/dome-lune-light.png");
-	background-position:center;
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-attachment:fixed;
-	top:0px;
-	right:0px;
-	bottom:0px;
-	left:0px;
-	position:absolute;
-	opacity:.95;
-	content:""
-}#hero img {
+#hero{background:#000;background:-moz-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);background:-webkit-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);background:linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1)}
+#hero::before{background-image:url("https://centime.github.io/cieyongwe.github.io/uploads/dome-lune-light.png");background-position:center;background-repeat:no-repeat;background-size:cover;background-attachment:fixed;top:0px;right:0px;bottom:0px;left:0px;position:absolute;opacity:.25;content:""}
+#hero img {
 	max-width: 200px;
-}
-.hero-body {
-	margin-top: 30px;
-	align-items: normal!important;
 }
 
 .title{margin:auto .75rem !important}
@@ -82,4 +60,3 @@ img[alt^="max-500px"]{max-width:100%; width: 500px;}
 /* "resp" h1 sizes */
 h1 { font-size:3rem}
 @media (max-width: 430px) { h1 {font-size: 30px !important;} }
-
