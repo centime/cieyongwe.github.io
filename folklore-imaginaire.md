@@ -2,7 +2,7 @@
 title: Folklore Imaginaire
 description: La poésie sonore à l’école
 layout: page
-image: /uploads/folklore-imaginaire-clement.jpeg
+image: /uploads/folklore-imaginaire-clement.jpg
 permalink: folklore-imaginaire
 ---
 
