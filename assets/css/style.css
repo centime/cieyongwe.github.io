@@ -22,6 +22,9 @@ a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;
 #hero img {
 	max-width: 200px;
 }
+.social-logos img {
+  height: 50px;
+}
 
 .title{margin:auto .75rem !important}
 .subtitle{letter-spacing:.25rem}
