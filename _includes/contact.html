@@ -26,15 +26,15 @@
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
                 Retrouvez-nous ici:
             </h3>
-            <div class="column is-full is-size-3">
+            <div class="column is-full is-size-3 social-logos">
                 {% unless site.facebook_username == %}
-                <a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><img src="/assets/images/facebook.png" class="fab fa-facebook"></img></a>
                 {% endunless %}
                 {% unless site.twitter_username == %}
                 <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
                 {% endunless %}
                 {% unless site.instagram_username ==  %}
-                <a href="https://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><img src="/assets/images/instagram.png" class="fab fa-instagram"></img></a>
                 {% endunless %}
                 {% unless site.linkedin_username ==  %}
                 <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
@@ -43,7 +43,7 @@
                 <a href="https://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
                 {% endunless %}
                 {% unless site.youtube_channel_id ==  %}
-                <a href="https://www.youtube.com/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.youtube.com/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><img src="/assets/images/youtube.png" class="fab fa-youtube"></img></a>
                 {% endunless %}
             </div>
         </div>
