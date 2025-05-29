@@ -54,6 +54,11 @@ a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;
         transition: background-image 1s;
 } 
 
+@media all and (max-width:1024px) {
+  #hero {
+    background-attachment:scroll;
+  }
+}
 
 .hero-body {
 	margin-top: 30px;
