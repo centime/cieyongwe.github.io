@@ -11,14 +11,15 @@ Amis de toujours, Clément Beguet (musicien) et Mehdi Meskini (poète slameur) o
 En 2021 ils décident de créer la Compagnie Yongwé pour revenir au duo des origines. Portés par l’envie d’amener le spectaculaire dans des lieux impromptus et d’échanger avec le public sur leurs rapports aux mondes, ils souhaitent créer des spectacles transdisciplinaires où cohabitent les notions de sensible, de conviction, d’incongru.
 
 
-[Biographies](biographies)
 
 ## L’équipe Yongwé
 
-{% include text-text.html 
+
+{% include text-image.html 
+image="/uploads/mehdi photo.jpeg"
 text="
 
-## Bureau :
+## Bureau :
 
 **Patrice Maurette**, Président
 
@@ -27,18 +28,21 @@ text="
 **Mévénig Baron**, Secrétaire
 
 
-## Conception artistique :
+## Conception artistique :
 
 **Mehdi Meskini**, poésicien
 
 **Clément Béguet**, musicteur
-
-
 "
 text-align="left"
-text-2="
+%}
 
-## Collaborateurs :
+
+
+{% include image-text.html 
+image="/uploads/photo clement.png"
+text="
+## Collaborateurs :
 
 **Robinio**, sonificateur
 
@@ -56,13 +60,15 @@ text-2="
 
 **Salim Nakhouia**, djducteur
 
-**Ondine Rux**, dessinatoueuse"
+**Ondine Rux**, dessinatoueuse
+"
 text-align-2="right"
-
 %}
 
 
-## Conception artistique :
+
+
+## Conception artistique :
 
 
 **Soutiens financiers** 

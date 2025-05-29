@@ -1,0 +1,14 @@
+- name: Dilo
+  link: dilo
+  image: uploads/affiche-dilo-2023-mini.jpg
+  description: Spectacle Poésie Musicale Flottante
+
+- name: "L'oreille et l'oeil"
+  link: reservations
+  image: uploads/tournee-dilo-2023-mini.png
+  description: Des oreilles pour écouter, des yeux pour voir
+
+- name: "Back Danbwa"
+  link: reservations
+  image: uploads/tournee-dilo-2023-mini.png
+  description: Des oreilles pour écouter, des yeux pour voir

@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+      <meta charset="utf-8">
+      <title>{{site.title}} - {{page.title}}</title>
+      <meta http-equiv="refresh" content="0; url={{site.url}}{{site.baseurl}}{{ page.redirectTo }}">
+      <meta name="robots" content="noindex">
+      <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{ page.redirectTo }}">
+      <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{page.image}}"/>
+      <meta property="og:site_name" content="Cie Yongwe" />
+      <meta property="og:title" content="{{page.title}}" />
+      <meta property="og:locale" content="fr_FR" />
+      <meta name="description" content="{{page.description}}" />
+      <meta property="og:description" content="{{page.description}}" />
+      <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+      <meta property="twitter:title" content="{{page.title}}" />
+      <meta name="twitter:description" content="{{page.description}}"/>
+      <script type="application/ld+json">{"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
+    </head>
+    <script>location="{{ page.redirectTo }}"</script>
+    <body>
+      <h1>Redirection&hellip;</h1>
+      <a href="{{ page.redirectTo }}">Cliquez ici si vous n'êtes pas automatiquement redirigés.</a>
+    </body>
+</html>

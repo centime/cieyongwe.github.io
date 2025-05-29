@@ -1,14 +1,19 @@
-- name: Dilo
+- name: folklore-imaginaire
   link: dilo
   image: uploads/affiche-dilo-2023-mini.jpg
   description: Spectacle Poésie Musicale Flottante
 
-- name: "Dates et réservations"
-  link: reservations
-  image: uploads/tournee-dilo-2023-mini.png
-  description: Tournée 2023 et réservations en ligne
+- name: Création en pays Auge
+  link: l-oreille-et-l-oeil
+  image: uploads/accueil/plateau-bleu-crop-2.png
+  description: Spectacle inconnu
 
-- name: Qui sommes-nous?
-  link: artistes
-  image: uploads/Ile du salut.jpg
-  description: L'équipe artistique, les collaborateurs et les partenaires 
+- name: Paroles de paysages
+  link: todo
+  image: uploads/accueil/vaches.jpg
+  description: Spectacle inconnu et qui s'écrit pas comme ça
+
+- name: Parcours
+  link: folklore-imaginaire
+  image: uploads/folklore-imaginaire-clement.jpg
+  description: Des trucs avec des élèves

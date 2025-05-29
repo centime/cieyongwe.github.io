@@ -1,0 +1,9 @@
+- name: Qui sommes-nous
+  link: dilo
+  image: uploads/affiche-dilo-2023-mini.jpg
+  description: Spectacle Poésie Musicale Flottante
+
+- name: "Dates et réservations"
+  link: reservations
+  image: uploads/tournee-dilo-2023-mini.png
+  description: Tournée 2023 et réservations en ligne
