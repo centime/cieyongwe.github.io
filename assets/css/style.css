@@ -18,30 +18,42 @@ a.navbar-item:hover,.navbar-link:hover{background-color:rgba(255,255,255,.25) !i
 a.navbar-item.is-active{background-color:rgba(255,255,255,.25) !important;color:#fff !important}
 a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;color:gray}
 .navbar-link:not(.is-arrowless)::after{border-color:gray}
-#hero{
-	background:#000;
-	background:-moz-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	background:-webkit-linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	background:linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1)
-}
-#hero::before{
-/*
-	background-image: url("file:///home/centime/Documents/cieyongwe/bgs/Dilo%20Maroni.jpg");
-*/
-	background-image: url("https://centime.github.io/cieyongwe.github.io/uploads/dome-lune-light.png");
-	background-position:center;
+
+#hero::before {
+	background-image: none;
+  background: linear-gradient(0deg, rgba(8, 1, 1, 0) 0%, rgb(0, 0, 0) 100%) !important;
+  top: 0px !important;
+  right: 0px !important;
+  bottom: 0px !important;
+  left: 0px !important;
+  position: absolute !important;
+  opacity: 0.75 !important;
+  content: "" !important;
+} 
+
+#hero {
+  background-image: url("/uploads/accueil/vaches.jpg");
+  background-image: url("/uploads/accueil/plateau-bleu.jpg");
+  background-image: url("/uploads/accueil/dilo-portraits.jpg");
+  background-image: url("/uploads/accueil/dilo-bleu.jpg");
+  background-image: url("/uploads/accueil/dilo-bleu-crop.png");
+  background-image: url("/uploads/accueil/dilo-portraits-crop.png");
+  background-image: url("/uploads/accueil/plateau-bleu-crop.png");
+  background-image: url("/uploads/dome-lune-light.png");
+  opacity: 1 !important;
+  	background-position:center;
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
+	background-color: black;
 	top:0px;
 	right:0px;
 	bottom:0px;
 	left:0px;
-	position:absolute;
-	opacity:.95;
-	content:""
-}
+
+        transition: background-image 1s;
+} 
+
 
 .hero-body {
 	margin-top: 30px;
@@ -56,6 +68,9 @@ a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;
   height: 50px;
 }
 
+
+.homepage .title{padding-top:0px !important;}
+.title{padding-top: 15%;}
 .title{margin:auto .75rem !important}
 .subtitle{letter-spacing:.25rem}
 #about .image{max-width:20vmax;margin:auto}
@@ -92,4 +107,30 @@ bottom: 50px
 img[alt^="max-500px"]{max-width:100%; width: 500px;}
 /* "resp" h1 sizes */
 h1 { font-size:3rem}
-@media (max-width: 430px) { h1 {font-size: 30px !important;} }
+@media (max-width: 500px) {
+	#hero img {
+		max-width: 100px;
+	}
+	h1 {font-size: 20px !important;} 	
+	h3 {font-size: 15px !important;} 	
+	.hero-body {
+		margin-top: 30px;
+	}
+
+}
+
+
+@media screen and (max-width: 1023px) {
+  .column.is-three-quarters-touch {
+    flex:
+none;
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1408px) {
+  .column.is-one-fifth-fullhd {
+    flex:
+none;
+    width: 40%;
+  }
+}

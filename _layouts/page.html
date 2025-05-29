@@ -16,11 +16,12 @@
           <h3 class="subtitle has-text-white-bis is-uppercase has-text-weight-medium is-marginless">
             {{page.description}}
           </h3>
+          <hr>
         </div>
       </div>
     </section>
     <style type="text/css">
-        #hero::before{background-image:url("{{site.url}}{{site.baseurl}}{{page.image}}") !important;
+        #hero{background-image:url("{{site.url}}{{site.baseurl}}{{page.image}}") !important;
     </style>
     <section class="hero is-fullheight">
         <div class="hero-body">
@@ -34,6 +35,7 @@
         </div>
     </section>
     <!--Footer begins here-->
+    {% include contact.html %}
     {% include footer.html %}
 </body>
 
