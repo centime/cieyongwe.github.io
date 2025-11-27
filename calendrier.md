@@ -1,92 +1,96 @@
 ---
-title: "Calendrier de tournée"
+title: "Dates et réservations"
 layout: page
-permalink: calendrier
+permalink: reservations
 image: /uploads/lyon.jpeg
-description: "Dates et lieux de nos spectacles"
+description: Tournée 2025, Hexagone
 ---
-![Tournée 2024](/uploads/reservations/diloautoprod.png)
 
-![Dilo Rennes](/uploads/reservations/dilorennes.png)
+## Samedi 21 Juin
 
-## Mardi 06 Août
+**La Nuit des Forêts**
+ Parking du lac 33121 Carcans
+ 
+ 20h30
+ 
+ *Jauge limitée / Réservation conseillée*
+[Infos et Réservations](https://urls.fr/lI2wqC)
 
-**Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes
+## Vendredi 27 Juin
+
+**Festival Beleza**
+ Digne Les Bains (04)
+ 
+ 21h
+ 
+*Jauge limitée / Réservation conseillée*
+[Infos et Réservations](https://urls.fr/4kMAv3)
+
+## Mardi 1er Juillet
+
+**Lac de Laffrey**
+ Plage Nord - Laffrey (38)
  
  21h
  
  *Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mardi-6-aout)
+ [Infos et Réservations]( https://urls.fr/6qIflC)
+ 
+## Mercredi 2 Juillet
 
-## Mercredi 07 Août
+**Lac de Laffrey**
+ Plage Nord - Laffrey (38)
+ 
+ 21h
+ 
+ *Jauge limitée / Réservation fortement conseillée*
+ [Infos et Réservations](https://urls.fr/ltwA_j)
 
-**Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes
+## Vendredi 4 Juillet
+
+**Festival Belledonne en Cirque**
+ Revel (38)
+ 
+ 22h
+ 
+ *Jauge limitée / Réservation fortement conseillée*
+ [Infos et Réservations](https://urls.fr/C_LkX0)
+
+## Jeudi 24 Juillet
+
+**Lac de Triouzoune**
+ Neuvic (19)
  
  21h
  
 *Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-mercredi-7-aout)
+[Infos et Réservations](https://urls.fr/uTF7dw)
 
-## Jeudi 08 Août
+## Dimanche 27 Juillet
 
-**Au Parc des Bois/Parc des Gayeulles**
- Rue du Patis Tatelin 35700 Rennes
- 
- 21h
- 
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-a-rennes-jeudi-8-aout)
-
-
-![Dilo Le Blanc](/uploads/reservations/diloleblanc.png)
- 
-## Samedi 10 Août
-
-**Zone de baignade près de la guinguette**
- Avenue Pierre Mendès France 36300 LE BLANC
- 
- 21h
- 
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-blanc-samedi-10-aout-1)
-
-## Dimanche 11 Août
-
-**Zone de baignade près de la guinguette**
- Avenue Pierre Mendès France 36300 LE BLANC
- 
- 21h
- 
- *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-blanc-dimanche-11-aout)
-
- ![Dilo Le Donzeil](/uploads/reservations/diloledonzeil.png)
-
-## Mardi 13 Août
-
-**Etang du Moulin**
- 23480 LE DONZEIL
- 
- 20h
- 
-*Jauge limitée / Réservation fortement conseillée*
-[Infos et Réservations](https://t.ly/p0xlE)
-
-![Dilo Parisot](/uploads/reservations/diloparisot.png)
-
-## Vendredi 16 Août
-
-**Lac de Parisot**
-Parisot 82137
+**Lac de Triouzoune**
+Neuvic (19)
 
 21h
 
  *Jauge limitée / Réservation fortement conseillée*
- [Infos et Réservations](https://www.helloasso.com/associations/les-connards-laques/evenements/dilo-au-lac-de-parisot-82-vendredi-16-aout-2)
+ [Infos et Réservations](https://urls.fr/1bYR8o)
  
+## Mercredi 30 Juillet
 
+**Plage de Port Lenn**
+Arzon (56)
+
+21h
+
+*Jauge limitée / Réservation fortement conseillée*
+[Infos et Réservations](https://urls.fr/A_Ojws)
+
+
+## Jeudi 31 Juillet
+
+**Plage de Port Lenn**
+Arzon (56)
 
 
 

@@ -26,13 +26,10 @@ entre eux.
 {% include image-text.html 
 image="/uploads/action-culturelle/oreille-3.jpeg"
 text="
-## Titre 2
+## Processus de création
 Nous avons ainsi travaillé dans plusieurs secteurs du territoire visé, créant des itinéraires de paroles, afin
 de recevoir le vécu de l’autre à travers son propre prisme, de l’exprimer, de la transfigurer par la poésie et
-la musique. La création qui s’en est suivie mêle enregistrements vocaux, composition
-musicale, textes poétiques et ambiances sonores du territoire. Par le biais des restitutions prévues en
-2025, nous offrirons la possibilité aux habitants de s'imprégner d’un processus de création, comme
-vecteurs culturels et spectateurs actifs.
+la musique. Par le biais des restitutions, nous offrons la possibilité aux habitants de s'imprégner d’un processus de création, comme vecteurs culturels et spectateurs actifs.
 "
 %}
 
@@ -41,7 +38,9 @@ vecteurs culturels et spectateurs actifs.
 image="/uploads/action-culturelle/oreille-3.jpeg"
 text="
 ## L'oreille voit l'oeil écoute
-La on va parler de la création
+Résultat de ce projet de territoire, L'oreille voit l'oeil écoute à pris la forme d’une représentation mêlant témoignages, création sonore et poétique ainsi que musique live.
+
+Cette forme hybride et légère, à la frontière entre podcast radio et spectacle vivant permet de mêler le regard de plusieurs générations sur un territoire et les musiques et les mots qu’ils nous ont inspirés.
 "
 %}
 
