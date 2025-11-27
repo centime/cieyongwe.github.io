@@ -28,3 +28,10 @@ regard de plusieurs générations sur un territoire et les musiques et les mots 
 "
 %}
 
+
+
+
+## Liens d'écoute
+
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://cieyongwe.bandcamp.com/album/loreille-voit-loeil-coute'>cieyongwe.bandcamp.com</a>
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://soundcloud.com/compagnie-yongwe/loreille-voit-loeil-ecoute'>soundcloud.com/compagnie-yongwe</a>

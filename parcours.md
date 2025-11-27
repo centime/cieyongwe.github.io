@@ -1,9 +1,9 @@
 ---
-title: Folklore Imaginaire
-description: La poésie sonore à l’école
+title: Parcours
+description: Installation sonore et photographique participative
 layout: page
-image: /uploads/folklore-imaginaire-clement.jpg
-permalink: folklore-imaginaire
+image: /uploads/vignetteparcours.jpg
+permalink: parcours
 ---
 
 
@@ -36,9 +36,7 @@ text="
 text="
 
 ## Productions
-Les morceaux composés avec les élèves peuvent être écoutés sur:
-<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://cieyongwe.bandcamp.com/album/folklore-imaginaire'>cieyongwe.bandcamp.com</a>
-<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://soundcloud.com/compagnie-yongwe/sets/folklore-imaginaire'>soundcloud.com/compagnie-yongwe</a>
+Les morceaux composés avec les élèves peuvent être écoutés sur [cieyongwe.bandcamp.com](https://cieyongwe.bandcamp.com) 
 
 "
 text-2="

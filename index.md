@@ -5,18 +5,17 @@ layout: home
 
 ## Une compagnie
 
-Yongwé est une compagnie de spectacles vivants basée à Kourou, avec un pied en Guyane et l'autre en Normandie. Découvrez ici notre première création, Dilo, un spectacle de poésie musicale joué sur l'eau. Tenez-vous au courant et réservez pour les prochaines dates, découvrez nos prochains projets et les créations en cours !
-
+Yongwé est une compagnie de spectacles vivants basée à Kourou, avec un pied en Guyane et l’autre en Normandie. Découvrez ici les spectacles en tournée et en création, réservez pour les prochaines dates, découvrez nos projets en territoire.
 
 
 <span id="creations" style="margin:30px"></span>
 
 ## Nos créations
 
-C'est les trucs finis blablablabla ou pas ceci cela
+A la croisée du théâtre, de la musique et de la poésie, les créations de la compagnie se nourrissent d’une lecture sensible de nos environnements et de questionnements autour des notions de culture et de territoire.
 
 <div class="projets columns is-centered is-multiline is-mobile">
-  {% for project in site.data.tournee %}
+  {% for project in site.data.creations %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
       <a href="{{project.link}}">
@@ -37,10 +36,10 @@ C'est les trucs finis blablablabla ou pas ceci cela
 
 ## Notre action culturelle
 
-C'est les trucs finis blablablabla ou pas ceci cela
+Dans les créations en territoire, nous rencontrons des publics lors d’ateliers d’écriture et de création sonore et musicale. Nous récoltons une parole, un ressenti, un regard sur le monde qui nous entoure. De ces rencontres émergent des créations participatives mouvantes.
 
 <div class="projets columns is-centered is-multiline is-mobile">
-  {% for project in site.data.projects %}
+  {% for project in site.data.action-culturelle %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
       <a href="{{project.link}}">
@@ -59,12 +58,8 @@ C'est les trucs finis blablablabla ou pas ceci cela
 
 ## La compagnie
 
-
-
-
-
 <div class="projets columns is-centered is-multiline is-mobile">
-  {% for project in site.data.en-tournee %}
+  {% for project in site.data.la-compagnie %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
       <a href="{{project.link}}">

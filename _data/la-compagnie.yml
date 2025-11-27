@@ -1,0 +1,9 @@
+- name: Qui sommes-nous
+  link: artistes
+  image: uploads/vignettequisommesnous.png
+  description: 
+
+- name: "Dates et réservations"
+  link: reservations
+  image: uploads/vignettedatesreservations.png
+  description: Tournée 2025 et réservation en ligne

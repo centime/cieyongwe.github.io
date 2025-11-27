@@ -1,0 +1,14 @@
+- name: Dilo
+  link: dilo
+  image: uploads/vignettedilo.png
+  description: Spectacle Poésie Musicale Flottante
+
+- name: "L’oreille voit, l’oeil écoute"
+  link: l-oreille-voit-l-oeil-ecoute
+  image: uploads/vignetteoreilleoeil.png
+  description: Musique, poésie et souvenirs
+
+- name: "Back Danbwa"
+  link: back-danbwa
+  image: uploads/vignettebackdanbwa.png
+  description: Fable dystopique musicale
