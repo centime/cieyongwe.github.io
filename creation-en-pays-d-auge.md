@@ -35,7 +35,7 @@ la musique. Par le biais des restitutions, nous offrons la possibilité aux habi
 
 
 {% include text-image.html 
-image="/uploads/action-culturelle/oreille-3.jpeg"
+image="/uploads/OreilleOeil.jpeg"
 text="
 ## L'oreille voit l'oeil écoute
 Résultat de ce projet de territoire, L'oreille voit l'oeil écoute à pris la forme d’une représentation mêlant témoignages, création sonore et poétique ainsi que musique live.
