@@ -1,6 +1,6 @@
 ---
 title: L'oreille et l'oeil
-description: Musique, Poésie et Souvenirs en Pays d'Auge
+description: Musique, Poésie et Souvenirs
 layout: page
 image: /uploads/OreilleOeilA.jpg
 permalink: l-oreille-voit-l-oeil-ecoute
