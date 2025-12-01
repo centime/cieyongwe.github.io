@@ -32,8 +32,9 @@ Une station d'écoute des portraits sonores et une exposition avec les portraits
 {% include text-text.html 
 text="
 
-## Productions
-Les morceaux composés avec les élèves peuvent être écoutés sur [cieyongwe.bandcamp.com](https://cieyongwe.bandcamp.com) 
+## Lien d'écoute
+
+<a class='button is-black is-rounded is-outlined is-uppercase has-text-weight-normal' href='https://soundcloud.com/compagnie-yongwe/sets/parcours'>soundcloud.com/compagnie-yongwe</a>
 
 "
 text-2="
@@ -43,4 +44,4 @@ Ce projet a été mené en lien avec la Scène Nationale 61, le CADA Althéa d'A
 "
 %}
 
-24 séances au total ont été animées avec une centaine d’élèves des écoles de Vimoutiers, Crouttes et Le Sap, dans l’Orne en Normandie. 
+
