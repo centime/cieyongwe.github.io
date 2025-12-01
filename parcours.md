@@ -9,7 +9,7 @@ permalink: parcours
 
 
 {% include text-image.html 
-image="/uploads/folklore-imaginaire-mehdi.jpg"
+image="/uploads/ParcoursA.jpg"
 text="
 ## Portraits Sonores
 
@@ -23,7 +23,7 @@ On a rencontré les gens, ils nous ont raconté, chanté, joué et nous on a éc
 %}
 
 {% include image-text.html 
-image="/uploads/folklore-imaginaire-robin.jpg"
+image="/uploads/ParcoursB.jpg"
 text="
 ## Les deux principaux axes de travail
 
