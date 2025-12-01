@@ -9,27 +9,22 @@ permalink: parcours
 
 
 {% include text-image.html 
-image="/uploads/ParcoursA.jpg"
+image="/uploads/ParcoursA.jpeg"
 text="
 ## Portraits Sonores
 
-Parcours, itinéraire à suivre par quelqu’un,ou Parcours, l’ensemble des étapes par lesquelles on passe, ou Parcours,en chorégraphie, en danse, c’est l’aptitude à se propulser en avant ou Parcours le trajet effectué par le danseur ou Parcours le tracé au sol de ses évolutions. Et si on pouvait prendre un peu de hauteur et voir l’empreinte que l’on laisse sur le sol et celles que font nos pensées quand elles se dispersent dans l’air.Des histoires de traces, de transmission, de mouvement.
-Je parcours, je pars…cours, accélère puis ralentit.Et toi ?Quel est ton parcours ? C’est vaste, avec plein d’angles d’attaques, intime évidemment aussi.On a choisi le parcours des sons des notes et des mots.
-C’est quoi la musique à toi ? Et ça fait quoi ? C’est quoi la musique pour toi ? Et ça te fait quoi ? Et tu l'écoutes quand ? Tu la partage comment ?
-On a rencontré les gens, ils nous ont raconté, chanté, joué et nous on a écouté…… et avec tout ça on a créé des portraits sonores, des parcours de chansons. 
+La Compagnie à posée ses valises sur la quartier de Perseigne à Alençon pendant deux semaines en Juin 2025 pour créer avec les habitants et les usagers du CADA (Centre d'Accueil pour Demandeurs d'Asile) autour de leurs rapports à la musique. On a rencontré les gens, ils nous ont raconté, chanté, joué et nous on a écouté…… et avec tout ça on a créé des portraits sonores, des parcours de chansons. 
 
 
 "
 %}
 
 {% include image-text.html 
-image="/uploads/ParcoursB.jpg"
+image="/uploads/ParcoursB.jpeg"
 text="
-## Les deux principaux axes de travail
+## Une exposition et station d'écoute
 
-⇨ Favoriser **l’émergence d’une parole poétique chez les élèves** pour décrire le monde qui les entoure
-
-⇨ Révéler avec la musique un langage commun aux élèves qui évoque leurs réalités propres.
+Une station d'écoute des portraits sonores et une exposition avec les portraits photos des participants est en cours de réalisation, si vous souhaitez accueillir ce dispositif, n'hésitez pas à nous contacter.
 
 "
 %}
@@ -43,7 +38,7 @@ Les morceaux composés avec les élèves peuvent être écoutés sur [cieyongwe.
 "
 text-2="
 ## Partenaires
-Ce projet a été mené en lien avec les Arts Improvisés, avec le soutien de la DRAC Normandie.
+Ce projet a été mené en lien avec la Scène Nationale 61, le CADA Althéa d'Alençon, la MIC de Perseigne, la Régie des Quartiers Alençonnaise et avec le soutien de la DRAC Normandie.
  
 "
 %}
