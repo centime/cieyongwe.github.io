@@ -2,14 +2,14 @@
 title: L'oreille et l'oeil
 description: L'oreille voit l'oeil
 layout: page
-image: /uploads/creations/oreille-1.png
+image: /uploads/OreilleOeilA.jpg
 permalink: l-oreille-voit-l-oeil-ecoute
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/accueil/vaches.jpg"
+image="/uploads/OreilleOeilB.jpg"
 text="
 
 ## L’oreille voit l’Oeil ecoute
