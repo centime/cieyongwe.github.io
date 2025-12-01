@@ -11,16 +11,16 @@ permalink: paroles-de-paysages
 image="/uploads/action-culturelle/paroles-2.jpg"
 text="
 
-## Titre1
+## Collectage de Paysage sonore
 
 Sur la proposition du festival Cher(e) Guyane qui a accueilli deux représentations de Dilo, nous avons mis
-en place un protocole d’action culturelle en lien avec cette diffusion, reprenant a minima le mode
-opératoire utilisé lors de la création de ce spectacle. La compagnie met à disposition du
+en place un protocole d’action culturelle en lien avec la diffusion du spectacle, reprenant a minima le mode
+opératoire utilisé lors de la création de ce dernier. La compagnie met à disposition du
 matériel d’enregistrement afin de capter sons et ambiances des milieux naturels ou urbains des
 participants. Au cours d’une balade enregistrée, nous tentons, par le biais de jeux sur les sons
 et les mots de nous créer un abécédaire des milieux rencontrés.
 
-## Titre2
+## Ecriture collective
 
 Suite à ces enregistrements, et à l'aide de jeux poétiques, sont créés collectivement des poèmes librement
 inspirés des paysages sonores explorés. Pendant ce temps est préparé un montage sonore réunissant les
