@@ -9,7 +9,7 @@ permalink: parcours
 
 
 {% include text-image.html 
-image="/uploads/ParcoursA.jpeg"
+image="/uploads/ParcoursB.jpeg"
 text="
 ## Portraits Sonores
 
@@ -20,7 +20,7 @@ La Compagnie à posée ses valises sur la quartier de Perseigne à Alençon pend
 %}
 
 {% include image-text.html 
-image="/uploads/ParcoursB.jpeg"
+image="/uploads/ParcoursC.jpeg"
 text="
 ## Une exposition et station d'écoute
 
