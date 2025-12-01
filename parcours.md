@@ -11,11 +11,13 @@ permalink: parcours
 {% include text-image.html 
 image="/uploads/folklore-imaginaire-mehdi.jpg"
 text="
-## Elèves et artistes
+## Portraits Sonores
 
-Le parcours Folklore Imaginaire a été conçu pour quatre classes de cycle 3 avec les artistes et techniciens de la compagnie. Il se situe au croisement de la poésie et de la musique, par le biais d’ateliers de poésie (écrite et orale), suivis d’ateliers de percussions corporelles, d’enregistrement d’ambiances sonores et de voix. 
+Parcours, itinéraire à suivre par quelqu’un,ou Parcours, l’ensemble des étapes par lesquelles on passe, ou Parcours,en chorégraphie, en danse, c’est l’aptitude à se propulser en avant ou Parcours le trajet effectué par le danseur ou Parcours le tracé au sol de ses évolutions. Et si on pouvait prendre un peu de hauteur et voir l’empreinte que l’on laisse sur le sol et celles que font nos pensées quand elles se dispersent dans l’air.Des histoires de traces, de transmission, de mouvement.
+Je parcours, je pars…cours, accélère puis ralentit.Et toi ?Quel est ton parcours ? C’est vaste, avec plein d’angles d’attaques, intime évidemment aussi.On a choisi le parcours des sons des notes et des mots.
+C’est quoi la musique à toi ? Et ça fait quoi ? C’est quoi la musique pour toi ? Et ça te fait quoi ? Et tu l'écoutes quand ? Tu la partage comment ?
+On a rencontré les gens, ils nous ont raconté, chanté, joué et nous on a écouté…… et avec tout ça on a créé des portraits sonores, des parcours de chansons. 
 
-Leur objectif est de favoriser l’émergence d’une « vision sensible » des choses qui nous entourent et, à partir des sensations et ressentis individuels, de travailler à la création d’une musique collective mêlant sons et voix.
 
 "
 %}
