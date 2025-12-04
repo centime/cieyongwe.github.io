@@ -14,6 +14,7 @@
   description: Abécédaire poétique et sonore
 
 - name: Parcours
-  link: /
+  link: parcours
   image: uploads/vignetteparcours.jpg-1024x.jpg-50p.jpg
   description: Installation sonore et photographique participative
+
