@@ -2,12 +2,12 @@
 title: Biographies
 layout: page
 description: Deux artistes pluridisciplinaires
-image: /uploads/duo.png
+image: /uploads/duo.png-1024x.jpg-50p.jpg
 permalink: biographies
 ---
 
 {% include text-image.html 
-image="/uploads/mehdi photo.jpeg"
+image="/uploads/mehdi-photo.jpeg-1024x.jpg-50p.jpg"
 text="
 ## Mehdi Meskini
 
@@ -29,7 +29,7 @@ pour plusieurs compagnies de spectacles.
 
 
 {% include image-text.html 
-image="/uploads/photo clement.png"
+image="/uploads/photo-clement.png-1024x.jpg-50p.jpg"
 text="
 ## Clément Beguet
 

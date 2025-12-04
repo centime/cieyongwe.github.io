@@ -2,7 +2,7 @@
 title: Qui sommes-nous?
 description: La compagnie Yongwé
 layout: page
-image: /uploads/equipe2.jpeg
+image: /uploads/equipe2.jpeg-1024x.jpg-50p.jpg
 permalink: artistes
 ---
 
@@ -16,7 +16,7 @@ En 2021 ils décident de créer la Compagnie Yongwé pour revenir au duo des ori
 
 
 {% include text-image.html 
-image="/uploads/mehdi photo.jpeg"
+image="/uploads/mehdi-photo.jpeg-1024x.jpg-50p.jpg"
 text="
 
 ## Bureau :
@@ -40,7 +40,7 @@ text-align="left"
 
 
 {% include image-text.html 
-image="/uploads/photo clement.png"
+image="/uploads/photo-clement.png-1024x.jpg-50p.jpg"
 text="
 ## Collaborateurs :
 

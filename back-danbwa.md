@@ -2,14 +2,14 @@
 title: BACK DANBWA
 description: Fable dystopique musicale
 layout: page
-image: /uploads/creations/back-1.png
+image: /uploads/creations/back-1.png-1024x.jpg-50p.jpg
 permalink: back-danbwa
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/creations/back-2.JPG"
+image="/uploads/creations/back-2.JPG-1024x.jpg-50p.jpg"
 text="
 
 
@@ -24,7 +24,7 @@ De révélations en aveux, au cours de la cérémonie, se dessineront les raison
 
 
 {% include image-text.html 
-image="/uploads/creations/back-3.JPG"
+image="/uploads/creations/back-3.JPG-1024x.jpg-50p.jpg"
 text="
 
 

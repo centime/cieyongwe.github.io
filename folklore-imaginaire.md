@@ -2,14 +2,14 @@
 title: Folklore Imaginaire
 description: La poésie sonore à l’école
 layout: page
-image: /uploads/folklore-imaginaire-clement.jpg
+image: /uploads/folklore-imaginaire-clement.jpg-1024x.jpg-50p.jpg
 permalink: folklore-imaginaire
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/folklore-imaginaire-mehdi.jpg"
+image="/uploads/folklore-imaginaire-mehdi.jpg-1024x.jpg-50p.jpg"
 text="
 ## Elèves et artistes
 
@@ -21,7 +21,7 @@ Leur objectif est de favoriser l’émergence d’une « vision sensible » des 
 %}
 
 {% include image-text.html 
-image="/uploads/folklore-imaginaire-robin.jpg"
+image="/uploads/folklore-imaginaire-robin.jpg-1024x.jpg-50p.jpg"
 text="
 ## Les deux principaux axes de travail
 

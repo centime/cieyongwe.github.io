@@ -6,38 +6,10 @@
   {% include navbar.html %}
   {% include showcase.html %}
   {% include main-content.html %}
-<!--   {% include project-cards-all.html %} -->
   {% include contact.html %}
   <!--Footer begins here-->
   {% include footer.html %}
 </body>
 
-<script type="text/javascript">
-        const images = [
-        "uploads/dome-lune-light.png",
-        "uploads/accueil/dilo-portraits-crop-2.png",
-        "uploads/accueil/dilo-bleu-crop.png",
-        "uploads/accueil/vaches.jpg",
-        "uploads/accueil/plateau-bleu-crop-2.png",
-      ]
-      window.onload = () => {
-        const preload = document.createElement("img");
-        preload.classList.add('preload');
-        document.querySelector('body').appendChild(preload);
-        // preloading
-        document.querySelector('#hero').style.backgroundImage = `url(${images[0]})`
-        document.querySelector('.preload').src = images[1]
-        let i = 1
-        setInterval(() => {
-          document.querySelector('#hero').style.backgroundImage = `url(${images[i++]})`
-
-          if (i === images.length) i = 0
-          else {
-            // preload the next image, so that it transitions smoothly
-            document.querySelector('.preload').src = images[i]
-          }
-        }, 5000)
-      }
-</script>
-<style>.preload{display:none;}</style>
+{% include bg-slider.html %}
 </html>

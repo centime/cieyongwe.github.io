@@ -1,19 +1,19 @@
 - name: Folklore imaginaire
   link: folklore-imaginaire
-  image: uploads/clement-folklore-imaginaire.jpg
+  image: uploads/clement-folklore-imaginaire.jpg-1024x.jpg-50p.jpg
   description: Poésie sonore à l’école
 
 - name: Création en pays Auge
   link: creation-en-pays-d-auge
-  image: uploads/paysdauge.jpeg
+  image: uploads/paysdauge.jpeg-1024x.jpg-50p.jpg
   description: Collectage mémoriel et sensible
 
 - name: Paroles de paysages
   link: paroles-de-paysages
-  image: uploads/paroles-de-paysage.jpg
+  image: uploads/paroles-de-paysage.jpg-1024x.jpg-50p.jpg
   description: Abécédaire poétique et sonore
 
 - name: Parcours
   link: /
-  image: uploads/vignetteparcours.jpg
+  image: uploads/vignetteparcours.jpg-1024x.jpg-50p.jpg
   description: Installation sonore et photographique participative

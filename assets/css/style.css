@@ -12,12 +12,14 @@ hr{margin:1rem auto;height:1px}
 .searchResult a .title{text-decoration:underline}
 #navbar{opacity:.95}
 .is-active{font-weight:600}
-.navbar-dropdown{border:none;right:0;left:auto}
-a.navbar-item{color:#fff !important}
+.navbar-dropdown{border:none;right:0;left:auto; padding-top: 0px !important;}
+a.navbar-item{color:#fff !important;}
 a.navbar-item:hover,.navbar-link:hover{background-color:rgba(255,255,255,.25) !important;color:#fff !important}
 a.navbar-item.is-active{background-color:rgba(255,255,255,.25) !important;color:#fff !important}
 a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;color:gray}
 .navbar-link:not(.is-arrowless)::after{border-color:gray}
+
+body { width:100% !important }
 
 #hero::before {
 	background-image: none;
@@ -32,14 +34,14 @@ a.navbar-item.is-active:hover{background-color:rgba(255,255,255,.25) !important;
 } 
 
 #hero {
-  background-image: url("/uploads/accueil/vaches.jpg");
+/*  background-image: url("/uploads/accueil/vaches.jpg");
   background-image: url("/uploads/accueil/plateau-bleu.jpg");
   background-image: url("/uploads/accueil/dilo-portraits.jpg");
   background-image: url("/uploads/accueil/dilo-bleu.jpg");
   background-image: url("/uploads/accueil/dilo-bleu-crop.png");
   background-image: url("/uploads/accueil/dilo-portraits-crop.png");
-  background-image: url("/uploads/accueil/plateau-bleu-crop.png");
-  background-image: url("/uploads/dome-lune-light.png");
+  background-image: url("/uploads/accueil/plateau-bleu-crop.png");*/
+  background-image: url("/uploads/dome-lune-light.png-1024x.jpg-50p.jpg");
   opacity: 1 !important;
   	background-position:center;
 	background-repeat:no-repeat;
@@ -135,6 +137,7 @@ h1 { font-size:3rem}
 	}
 
 }
+#contact { max-width:100% }
 
 
 @media screen and (max-width: 1023px) {
@@ -152,3 +155,14 @@ none;
     width: 32%;
   }
 }
+
+#page-section {max-width: 100%}
+a.button {
+    max-width: 100%;
+    white-space: pre-wrap; /* CSS3 */    
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */    
+    white-space: -o-pre-wrap; /* Opera 7 */    
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+#contact-button{ white-space:inherit; }

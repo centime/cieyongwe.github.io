@@ -69,6 +69,8 @@
                     $target.classList.toggle('is-active');
                 });
             });
-        }
+        };
+        // close menu on item click
+        document.querySelectorAll("a.navbar-item").forEach(e=>e.addEventListener("click",()=>document.querySelector('.navbar-burger').click()))
     });
 </script>

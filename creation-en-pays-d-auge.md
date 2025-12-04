@@ -2,13 +2,13 @@
 title: Création en pays d'Auge
 description: Une résidence en territoire
 layout: page
-image: /uploads/action-culturelle/oreille-1.png
+image: /uploads/action-culturelle/oreille-1.png-1024x.jpg-50p.jpg
 permalink: creation-en-pays-d-auge
 ---
 
 
 {% include text-image.html 
-image="/uploads/action-culturelle/oreille-2.jpeg"
+image="/uploads/action-culturelle/oreille-2.jpeg-1024x.jpg-50p.jpg"
 text="
 
 ## Une résidence en territoire
@@ -24,7 +24,7 @@ entre eux.
 %}
 
 {% include image-text.html 
-image="/uploads/action-culturelle/oreille-3.jpeg"
+image="/uploads/action-culturelle/oreille-3.jpeg-1024x.jpg-50p.jpg"
 text="
 ## Processus de création
 Nous avons ainsi travaillé dans plusieurs secteurs du territoire visé, créant des itinéraires de paroles, afin
@@ -35,7 +35,7 @@ la musique. Par le biais des restitutions, nous offrons la possibilité aux habi
 
 
 {% include text-image.html 
-image="/uploads/OreilleOeil.jpeg"
+image="/uploads/OreilleOeil.jpeg-1024x.jpg-50p.jpg"
 text="
 ## L'oreille voit l'oeil écoute
 Résultat de ce projet de territoire, L'oreille voit l'oeil écoute à pris la forme d’une représentation mêlant témoignages, création sonore et poétique ainsi que musique live.

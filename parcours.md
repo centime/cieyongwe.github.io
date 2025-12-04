@@ -2,14 +2,14 @@
 title: Parcours
 description: Installation sonore et photographique participative
 layout: page
-image: /uploads/vignetteparcours.jpg
+image: /uploads/vignetteparcours.jpg-1024x.jpg-50p.jpg
 permalink: parcours
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/ParcoursB.jpeg"
+image="/uploads/ParcoursB.jpeg-1024x.jpg-50p.jpg"
 text="
 ## Portraits Sonores
 
@@ -20,7 +20,7 @@ La Compagnie à posée ses valises sur la quartier de Perseigne à Alençon pend
 %}
 
 {% include image-text.html 
-image="/uploads/ParcoursC.jpeg"
+image="/uploads/ParcoursC.jpeg-1024x.jpg-50p.jpg"
 text="
 ## Une exposition et station d'écoute
 

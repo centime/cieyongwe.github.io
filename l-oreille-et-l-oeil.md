@@ -2,14 +2,14 @@
 title: L'oreille et l'oeil
 description: Musique, Poésie et Souvenirs
 layout: page
-image: /uploads/OreilleOeilA.jpg
+image: /uploads/OreilleOeilA.jpg-1024x.jpg-50p.jpg
 permalink: l-oreille-voit-l-oeil-ecoute
 ---
 
 
 
 {% include text-image.html 
-image="/uploads/OreilleOeilB.jpg"
+image="/uploads/OreilleOeilB.jpg-1024x.jpg-50p.jpg"
 text="
 
 ## L’oreille voit l’Oeil ecoute

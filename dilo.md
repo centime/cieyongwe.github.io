@@ -2,7 +2,7 @@
 title: Dilo
 layout: page
 description: Poésie Musicale Flottante
-image: /uploads/dilo-visuel.png
+image: /uploads/dilo-visuel.png-1024x.jpg-50p.jpg
 permalink: dilo
 ---
 
@@ -44,7 +44,7 @@ Cours fleuve cours
 
 *Toi qui en dis long, sur tout ton parcours, sur toutes les façons qu'a la vie autour de profiter de ton cours, fleuve, cours.*
 "
-image="/uploads/dilo-papaichton.jpg"
+image="/uploads/dilo-papaichton.jpg-1024x.jpg-50p.jpg"
 %}
 
 ## Une expérience sensorielle
@@ -83,7 +83,7 @@ Des ateliers de médiation autour de la thématique \"écriture et paysage sonor
 
 Fiche technique à télécharger"
 
-image="/uploads/photo dilo mer.jpg"
+image="/uploads/photo-dilo-mer.jpg-1024x.jpg-50p.jpg"
 grow="2"
 text-align="text-left"
 
@@ -95,5 +95,5 @@ text-align="text-left"
 
 Cette première création professionnelle de la Compagnie Yongwé a bénéficié du soutien de la DCJS de Guyane, du Centre Nationel de la Musique, de la Collectivité Territoriale de Guyane, et de la Scène Conventionnée Théâtre de Macouria
 
-![affiche du spectacle dilo](/uploads/affiche-web-dilo.jpg)
+![affiche du spectacle dilo](/uploads/affiche-web-dilo.jpg-1024x.jpg-50p.jpg)
 
