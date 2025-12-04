@@ -2,7 +2,7 @@
 title: "Professionnels"
 layout: page
 permalink: pros
-image: /uploads/Pro.jpeg
+image: /uploads/Pro.jpeg-1024x.jpg-50p.jpg
 description: "Dossiers et outils de communication"
 ---
 
