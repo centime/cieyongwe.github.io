@@ -9,7 +9,7 @@ permalink: back-danbwa
 
 
 {% include text-image.html 
-image="/uploads/creations/back-2.JPG-1024x.jpg-50p.jpg"
+image="/uploads/BackdanbwaA.JPG"
 text="
 
 
@@ -24,7 +24,7 @@ De révélations en aveux, au cours de la cérémonie, se dessineront les raison
 
 
 {% include image-text.html 
-image="/uploads/creations/back-3.JPG-1024x.jpg-50p.jpg"
+image="/uploads/BackdanbwaB.jpg"
 text="
 
 
