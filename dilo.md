@@ -11,7 +11,7 @@ permalink: dilo
 
 {% include text-text.html 
 text='
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ODkFXwAy_c4?si=-Y4S0HtityOf4e6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="max-width:100%" width="560" height="315" src="https://www.youtube.com/embed/ODkFXwAy_c4?si=-Y4S0HtityOf4e6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 '
 text-2="
 ## Note d'intention
@@ -96,5 +96,6 @@ text-align="text-left"
 Cette première création professionnelle de la Compagnie Yongwé a bénéficié du soutien de la DCJS de Guyane, du Centre Nationel de la Musique, de la Collectivité Territoriale de Guyane, et de la Scène Conventionnée Théâtre de Macouria
 
 ![affiche du spectacle dilo](/uploads/affiche-web-dilo.jpg-1024x.jpg-50p.jpg)
+
 
 
