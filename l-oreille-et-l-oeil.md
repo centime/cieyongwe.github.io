@@ -1,5 +1,5 @@
 ---
-title: L'oreille et l'oeil
+title: L’oreille voit l’Oeil ecoute
 description: Musique, Poésie et Souvenirs
 layout: page
 image: /uploads/OreilleOeilA.jpg-1024x.jpg-50p.jpg
